@@ -1,0 +1,29 @@
+6WP||#DSC=5=5||@[Description]=5 way Pin Header
+7 Segment, 4 Char||#DIP=36=7 Seg, 4 char||@[Description]=Common Cathode
+Arduino Shield||#THROUGH=32=Arduino shield
+Barrel Jack||#THROU=3=DC10A||@[Description]=Connector
+Capacitor||#0402=2=0402||#0603=2=C0603||#1206=2=C1206
+Debug header||#THROUGH=10=debug header
+Diode - Precision Shunt V ref||#SOT23=3=SOT23||@[Description]=Voltage reference
+IC - ADC - HX711||#SOP16=16=SO16||@[Description]=24 bit ADC
+IC - Comparator - MAX987||#SOT23 =5=SOT23 - 5 pin
+IC - N-Chan - IRFL4310||#SOT223=4=SOT-223||@[Description]=Mosfet
+IC - Opamp - MAX4162||#SOT23=5=SOT23 - 5 pin||@[Description]=Op Amp
+IC - OpAmp - MAX4477||#SOT23=8=SOT23 - 8||@[Description]=Low noise opamp
+IC - Shift Reg - 74HC595||#SO16=16=SO16
+IC - Temp sensor - MCP9805||#TSOP8=8=8 TSOP||@[Description]=I2C Sensor
+IC - uC KL03||#QFN 24=25=QFN24 4x4
+IC - V reg - LM1117||#SOT223=4=SOT-223||@3.3v=3.3v||@5v=5v
+Ionisation Chamber||#SMD=2=Chamber pad
+LCD 16x2||#MOD=20=LCD_module
+LED - 3 colour||#SMD=4=3x LED||@[Description]=Common anode
+LED sm||#0806=2=0805||@[Description]=SMD LED
+Photodiode - BPW34||#SMD=2=BPW34
+Q - Transistor - MMBT4403||#SOT23=3=SOT23||@[Description]=PNP
+Resistor||#0402=2=0402||#0603=2=0603||#0805=2=0805||#1206=2=1206
+Resistor - Trimmer pot||#SMD=3=TrimmerPot||@[Description]=10k 1 turn
+Reverse LED||#1206=3=Reverse LED
+RJ11||#THROU=6=RJ11||@[Description]=Connector
+Test pad||#SMD=1=Test Pad
+Transistor NPN Darlington BCV27||#SMD=3=SOT23||@[Description]=Transistor NPN Darlington
+Transistor PNP Darlington BCV26||#SMD=3=SOT23||@[Description]=Transistor PNP Darlington 
