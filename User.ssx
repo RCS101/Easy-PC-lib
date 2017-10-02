@@ -1,0 +1,32 @@
+3x LED||4
+4+4 square||8
+7 Seg||12
+7 Seg, 4 char||36
+74HC595||16
+Arduino||32
+Audio Socket||2
+Barrel Jack||3
+BAV99||3
+C||2
+Comparator||5
+Con4||4
+CP||2
+CV||2
+D||2
+Debug header||10
+HX711||16
+IC - 8 pin||8
+Ion chamber||2
+KL03||25
+LCD module||16
+NPN_Darlington||3
+Nucleo||76
+PD||2
+PNP_Darlington||3
+RA||2
+RVA||3
+SPI_flash||8
+STM32 48pin||48
+TestPad||1
+Vreg||4
+WS2812b||4

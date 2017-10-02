@@ -1,0 +1,54 @@
+6WP||#DSC=5=5||@[Description]=5 way Pin Header
+7 Segment, 4 Char||#DIP=36=7 Seg, 4 char||@[Description]=Common Cathode
+7 Segment, 4 Character||#THROUGH=12=7 Seg||@[Description]=KingBright CC56-12EWA
+Arduino Shield||#THROUGH=32=Arduino shield
+AT25SF041-SSHD-B||#SOIC8=8=SOIC8||@[Description]=Flash 4MBit
+Au Cap||#Au 8mm=2=Au Cap 8mm||#Au 10mm=2=Au Cap 10mm
+Audio Socket||#THROUGH=4=Audio socket||@[Description]=Mono
+B160||#SMA=2=Diode SMA||@[Description]=Diode
+Barrel Jack||#THROU=3=DC10A||@[Description]=Connector
+BAV99||#SOT23=3=SOT23||@[Description]=Dual Diode
+Capacitor||#0402=2=0402||#0603=2=C0603||#1206=2=C1206
+CR1220 Holder||#SMD=4=CR1220 holder
+Crystal 32kHz||#SMD=4=Crystal 32kHz
+Debug header||#THROUGH=10=debug header
+Diode - Precision Shunt V ref||#SOT23=3=SOT23||@[Description]=Voltage reference
+DS1307||#SOIC8=8=SO8||@[Description]=Real time clock
+IC - ADC - HX711||#SOP16=16=SO16||@[Description]=24 bit ADC
+IC - Comparator - MAX987||#SOT23 =5=SOT23 - 5 pin
+IC - N-Chan - IRFL4310||#SOT223=4=SOT-223||@[Description]=Mosfet
+IC - Opamp - MAX4162||#SOT23=5=SOT23 - 5 pin||@[Description]=Op Amp
+IC - OpAmp - MAX4477||#SOT23=8=SOT23 - 8||@[Description]=Low noise opamp
+IC - Shift Reg - 74HC595||#SO16=16=SO16
+IC - STM32L031C6T6||#LQFP48=48=LQFP48||@[Description]=uC
+IC - Temp sensor - MCP9805||#TSOP8=8=8 TSOP||@[Description]=I2C Sensor
+IC - uC KL03||#QFN 24=25=QFN24 4x4
+IC - V reg - LM1117||#SOT223=4=SOT-223||@3.3v=3.3v||@5v=5v
+Inductor||#SMD=2=Inductor 12.5mm
+Ionisation Chamber||#SMD=2=Chamber pad
+IRF640NS||#D2PAK=3=T0-263AB||@[Description]=MOSFET - NCHAN
+LCD 16x2||#MOD=20=LCD_module
+LED - 3 colour||#SMD=4=3x LED||@[Description]=Common anode
+LED SMD||#0603=2=0603 LED
+MC74VHC1GT00||#SOT23-5=5=SOT23 - 5 pin||@[Description]=NAND gate
+MC34063a||#SOIC-8=8=SO8||@[Description]=DCDC controller
+MJD340||#DPAK=3=DPAK-369C||@[Description]=NPN
+Nucleo - F030R8||#SHIELD=76=Nucleo Shield
+Nucleo - L073RZ||#SHIELD=76=Nucleo Shield
+Photodiode - BPW34||#SMD=2=BPW34
+PMV30UN2||#SOT23=3=SOT23||@[Description]=N-chan
+PMV65XP||#SOT23=3=SOT23||@[Description]=P-chan
+Q - Transistor - MMBT4403||#SOT23=3=SOT23||@[Description]=PNP
+Resistor||#0402=2=0402||#0603=2=0603||#0805=2=0805||#1206=2=1206
+Resistor - Trimmer pot||#SMD=3=TrimmerPot||@[Description]=10k 1 turn
+Reverse LED||#1206=3=Reverse LED
+RJ11||#THROU=6=RJ11||@[Description]=Connector
+Rotary encoder w push||#THROUGH=7=Rotary Encoder
+Screw terminal||#THROUGH=2=5mm terminal||@[Description]=2 pin
+Slide Switch||#SMD=6=Slide Switch
+Tact SW||#SMD=4=Tact SMD
+Test pad||#Test pad=1=Test Point
+Transistor NPN Darlington BCV27||#SMD=3=SOT23||@[Description]=Transistor NPN Darlington
+Transistor PNP Darlington BCV26||#SMD=3=SOT23||@[Description]=Transistor PNP Darlington 
+US1A||#SMA=2=Diode SMA||@[Description]=Diode
+WS2812b||#SMD=4=WS2812b||@[Description]=LED
