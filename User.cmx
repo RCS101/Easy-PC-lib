@@ -1,6 +1,7 @@
 6WP||#DSC=5=5||@[Description]=5 way Pin Header
 7 Segment, 4 Char||#DIP=36=7 Seg, 4 char||@[Description]=Common Cathode
 7 Segment, 4 Character||#THROUGH=12=7 Seg||@[Description]=KingBright CC56-12EWA
+AD8606||#SOIC8=8=SOIC8||@[Description]=OPAMP
 Arduino Shield||#THROUGH=32=Arduino shield
 AT25SF041-SSHD-B||#SOIC8=8=SOIC8||@[Description]=Flash 4MBit
 Au Cap||#Au 8mm=2=Au Cap 8mm||#Au 10mm=2=Au Cap 10mm
@@ -47,8 +48,9 @@ Rotary encoder w push||#THROUGH=7=Rotary Encoder
 Screw terminal||#THROUGH=2=5mm terminal||@[Description]=2 pin
 Slide Switch||#SMD=6=Slide Switch
 Tact SW||#SMD=4=Tact SMD
-Test pad||#Test pad=1=Test Point
+Test pad||#Test pad=1=Test Point||#TestPad SM=1=TestPad SM
 Transistor NPN Darlington BCV27||#SMD=3=SOT23||@[Description]=Transistor NPN Darlington
 Transistor PNP Darlington BCV26||#SMD=3=SOT23||@[Description]=Transistor PNP Darlington 
+Trimmer||#THROUGH=3=Trimer Pot through
 US1A||#SMA=2=Diode SMA||@[Description]=Diode
 WS2812b||#SMD=4=WS2812b||@[Description]=LED

@@ -21,6 +21,7 @@ KL03||25
 LCD module||16
 NPN_Darlington||3
 Nucleo||76
+OPAMP||3
 PD||2
 PNP_Darlington||3
 RA||2
