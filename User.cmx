@@ -3,6 +3,7 @@
 7 Segment, 4 Character||#THROUGH=12=7 Seg||@[Description]=KingBright CC56-12EWA
 Arduino Shield||#THROUGH=32=Arduino shield
 AT25SF041-SSHD-B||#SOIC8=8=SOIC8||@[Description]=Flash 4MBit
+Attiny44/84||#DIP14=14=14DIL||@[Description]=Microcontroller
 Au Cap||#Au 8mm=2=Au Cap 8mm||#Au 10mm=2=Au Cap 10mm
 Audio Socket||#THROUGH=4=Audio socket||@[Description]=Mono
 B160||#SMA=2=Diode SMA||@[Description]=Diode
@@ -24,6 +25,7 @@ IC - STM32L031C6T6||#LQFP48=48=LQFP48||@[Description]=uC
 IC - Temp sensor - MCP9805||#TSOP8=8=8 TSOP||@[Description]=I2C Sensor
 IC - uC KL03||#QFN 24=25=QFN24 4x4
 IC - V reg - LM1117||#SOT223=4=SOT-223||@3.3v=3.3v||@5v=5v
+ICSP Header||#THROUGH=6=2x3 conn||@[Description]=Programming header
 Inductor||#SMD=2=Inductor 12.5mm
 Ionisation Chamber||#SMD=2=Chamber pad
 IRF640NS||#D2PAK=3=T0-263AB||@[Description]=MOSFET - NCHAN
