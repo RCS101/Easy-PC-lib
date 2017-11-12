@@ -29,6 +29,7 @@ Inductor 12.5mm||2
 Inductor SM||2
 LCD_module||20
 LQFP48||48
+LQFP64||64
 Nucleo Shield||76
 QFN24 4x4||25
 Reverse LED||3
@@ -44,7 +45,5 @@ T0-263AB||3
 Tact SMD||4
 Test Pad||1
 Test Point||1
-TestPad SM||1
-Trimer Pot through||3
 TrimmerPot||3
 WS2812b||4

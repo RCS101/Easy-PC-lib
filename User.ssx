@@ -23,13 +23,13 @@ KL03||25
 LCD module||16
 NPN_Darlington||3
 Nucleo||76
-OPAMP||3
 PD||2
 PNP_Darlington||3
 RA||2
 RVA||3
 SPI_flash||8
 STM32 48pin||48
+STM32F030R8||64
 TestPad||1
 Vreg||4
 WS2812b||4
