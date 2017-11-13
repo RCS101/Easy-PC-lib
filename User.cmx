@@ -50,6 +50,7 @@ RJ11||#THROU=6=RJ11||@[Description]=Connector
 Rotary encoder w push||#THROUGH=7=Rotary Encoder
 Screw terminal||#THROUGH=2=5mm terminal||@[Description]=2 pin
 Slide Switch||#SMD=6=Slide Switch
+STM32F030R8||#LQFP64=64=LQFP64||@[Description]=uC
 Tact SW||#SMD=4=Tact SMD
 Test pad||#Test pad=1=Test Point
 Transistor NPN Darlington BCV27||#SMD=3=SOT23||@[Description]=Transistor NPN Darlington
