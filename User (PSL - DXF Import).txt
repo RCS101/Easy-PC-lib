@@ -1,0 +1,25 @@
+DXF Import
+----------
+
+Report File:        C:\Users\Public\Documents\Easy-PC\Userlib\User (PSL - DXF Import).txt
+Report Written:     Sunday, November 05, 2017
+Design Path:        C:\Users\Public\Documents\Easy-PC\Userlib\User.psl
+Design Title:       
+Created:            05/11/2017 19:32:05
+Last Saved:         
+Editing Time:       5 min
+Units:              mm (precision 3)
+
+Warning (line 18171): Font "STANDARD" cannot be found. Using default stroke font.
+Warning (line 18199): Font "ltypeshp.shx" cannot be found. Using default stroke font.
+Warning (line 18227): Font "ltypeshp.shx" cannot be found. Using default stroke font.
+Warning (line 18255): Font "ltypeshp.shx" cannot be found. Using default stroke font.
+Warning (line 18283): Font "ltypeshp.shx" cannot be found. Using default stroke font.
+Warning (line 18311): Font "qcadshp.shx" cannot be found. Using default stroke font.
+Warning (line 18339): Font "qcadshp.shx" cannot be found. Using default stroke font.
+Warning (line 18367): Font "STANDARD" cannot be found. Using default stroke font.
+Warning (line 18395): Font "ltypeshp.shx" cannot be found. Using default stroke font.
+Warning (line 18423): Font "ltypeshp.shx" cannot be found. Using default stroke font.
+Warning (line 18451): Font "ltypeshp.shx" cannot be found. Using default stroke font.
+
+End Of Report.

@@ -1,7 +1,7 @@
+1SMB5956BT3G||#SMB=2=DO-214AA||@[Description]=Zener 
 6WP||#DSC=5=5||@[Description]=5 way Pin Header
 7 Segment, 4 Char||#DIP=36=7 Seg, 4 char||@[Description]=Common Cathode
 7 Segment, 4 Character||#THROUGH=12=7 Seg||@[Description]=KingBright CC56-12EWA
-AD8606||#SOIC8=8=SOIC8||@[Description]=OPAMP
 Arduino Shield||#THROUGH=32=Arduino shield
 AT25SF041-SSHD-B||#SOIC8=8=SOIC8||@[Description]=Flash 4MBit
 Attiny44/84||#DIP14=14=14DIL||@[Description]=Microcontroller
@@ -12,16 +12,17 @@ Barrel Jack||#THROU=3=DC10A||@[Description]=Connector
 BAV99||#SOT23=3=SOT23||@[Description]=Dual Diode
 Capacitor||#0402=2=0402||#0603=2=C0603||#1206=2=C1206
 CR1220 Holder||#SMD=4=CR1220 holder
-Crystal 32kHz||#SMD=4=Crystal 32kHz
+CR2032 holder||#THROUGH=2=CR2032 holder
+Crystal 32kHz||#SMD=4=Crystal 32kHz||#Through=2=32kHz XTAL
 Debug header||#THROUGH=10=debug header
 Diode - Precision Shunt V ref||#SOT23=3=SOT23||@[Description]=Voltage reference
-DS1307||#SOIC8=8=SO8||@[Description]=Real time clock
+DS1307||#DIP8=8=8DIL||@[Description]=Real time clock||#SOIC8=8=SO8||@[Description]=Real time clock
 IC - ADC - HX711||#SOP16=16=SO16||@[Description]=24 bit ADC
 IC - Comparator - MAX987||#SOT23 =5=SOT23 - 5 pin
 IC - N-Chan - IRFL4310||#SOT223=4=SOT-223||@[Description]=Mosfet
 IC - Opamp - MAX4162||#SOT23=5=SOT23 - 5 pin||@[Description]=Op Amp
 IC - OpAmp - MAX4477||#SOT23=8=SOT23 - 8||@[Description]=Low noise opamp
-IC - Shift Reg - 74HC595||#SO16=16=SO16
+IC - Shift Reg - 74HC595||#SO16=16=SO16||#DIP16=16=16DIL
 IC - STM32L031C6T6||#LQFP48=48=LQFP48||@[Description]=uC
 IC - Temp sensor - MCP9805||#TSOP8=8=8 TSOP||@[Description]=I2C Sensor
 IC - uC KL03||#QFN 24=25=QFN24 4x4
@@ -50,9 +51,9 @@ Rotary encoder w push||#THROUGH=7=Rotary Encoder
 Screw terminal||#THROUGH=2=5mm terminal||@[Description]=2 pin
 Slide Switch||#SMD=6=Slide Switch
 Tact SW||#SMD=4=Tact SMD
-Test pad||#Test pad=1=Test Point||#TestPad SM=1=TestPad SM
+Test pad||#Test pad=1=Test Point
 Transistor NPN Darlington BCV27||#SMD=3=SOT23||@[Description]=Transistor NPN Darlington
 Transistor PNP Darlington BCV26||#SMD=3=SOT23||@[Description]=Transistor PNP Darlington 
-Trimmer||#THROUGH=3=Trimer Pot through
 US1A||#SMA=2=Diode SMA||@[Description]=Diode
+US1M||#SMA=2=DO-214AA||@[Description]=Fast diode
 WS2812b||#SMD=4=WS2812b||@[Description]=LED

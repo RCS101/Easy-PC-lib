@@ -10,6 +10,7 @@
 9way_con||9
 10way_con||10
 16way_con||10
+32kHz XTAL||2
 0402||2
 0603||2
 0603 LED||2
@@ -20,10 +21,12 @@ Audio socket||4
 BPW34||2
 Chamber pad||2
 CR1220 holder||4
+CR2032 holder||2
 Crystal 32kHz||4
 DC10A||3
 Debug header||10
 Diode SMA||2
+DO-214AA||2
 DPAK-369C||3
 Inductor 12.5mm||2
 Inductor SM||2
@@ -44,7 +47,5 @@ T0-263AB||3
 Tact SMD||4
 Test Pad||1
 Test Point||1
-TestPad SM||1
-Trimer Pot through||3
 TrimmerPot||3
 WS2812b||4
