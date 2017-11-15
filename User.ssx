@@ -1,8 +1,10 @@
 2x3 Box||6
+2x10way conn||20
 3x LED||4
 4+4 square||8
 7 Seg||12
 7 Seg, 4 char||36
+10way conn||10
 74HC595||16
 Arduino||32
 Attiny44/84||14

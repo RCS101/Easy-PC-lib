@@ -1,7 +1,9 @@
 1SMB5956BT3G||#SMB=2=DO-214AA||@[Description]=Zener 
+2x10 connector||#THROUGH=20=2x10way_con
 6WP||#DSC=5=5||@[Description]=5 way Pin Header
 7 Segment, 4 Char||#DIP=36=7 Seg, 4 char||@[Description]=Common Cathode
 7 Segment, 4 Character||#THROUGH=12=7 Seg||@[Description]=KingBright CC56-12EWA
+10way Connector||#THROUGH=10=10way_con
 Arduino Nano||#MODULE=30=Arduino Nano||@[Description]=uC
 Arduino Shield||#THROUGH=32=Arduino shield
 AT25SF041-SSHD-B||#SOIC8=8=SOIC8||@[Description]=Flash 4MBit
