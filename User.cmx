@@ -13,6 +13,7 @@ Audio Socket||#THROUGH=4=Audio socket||@[Description]=Mono
 B160||#SMA=2=Diode SMA||@[Description]=Diode
 Barrel Jack||#THROU=3=DC10A||@[Description]=Connector
 BAV99||#SOT23=3=SOT23||@[Description]=Dual Diode
+BC516||#TO92=3=TO92||@[Description]=Darlington PNP
 Capacitor||#0402=2=0402||#0603=2=C0603||#1206=2=C1206
 CR1220 Holder||#SMD=4=CR1220 holder
 CR2032 holder||#THROUGH=2=CR2032 holder
@@ -31,8 +32,9 @@ IC - Temp sensor - MCP9805||#TSOP8=8=8 TSOP||@[Description]=I2C Sensor
 IC - uC KL03||#QFN 24=25=QFN24 4x4
 IC - V reg - LM1117||#SOT223=4=SOT-223||@3.3v=3.3v||@5v=5v
 ICSP Header||#THROUGH=6=2x3 conn||@[Description]=Programming header
-Inductor||#SMD=2=Inductor 12.5mm
+Inductor||#THROUGH=2=5mm Inductor||@[Description]=5mm||#SMD 12mm=2=Inductor 12.5mm||@[Description]=5mm||#Inductor SM=2=Inductor SM||@[Description]=5mm
 Ionisation Chamber||#SMD=2=Chamber pad
+IRF640||#TO220=3=TO220||@[Description]=MOSFET N-Chan
 IRF640NS||#D2PAK=3=T0-263AB||@[Description]=MOSFET - NCHAN
 LCD 16x2||#MOD=20=LCD_module
 LED - 3 colour||#SMD=4=3x LED||@[Description]=Common anode
@@ -53,12 +55,14 @@ Resistor - Trimmer pot||#SMD=3=TrimmerPot||@[Description]=10k 1 turn
 Reverse LED||#1206=3=Reverse LED
 RJ11||#THROU=6=RJ11||@[Description]=Connector
 Rotary encoder w push||#THROUGH=7=Rotary Encoder
+SB140||#DO41=2=DIOD04||@[Description]=Schottky diode
 Screw terminal||#THROUGH=2=5mm terminal||@[Description]=2 pin
 Slide Switch||#SMD=6=Slide Switch
 Tact SW||#SMD=4=Tact SMD
 Test pad||#Test pad=1=Test Point
 Transistor NPN Darlington BCV27||#SMD=3=SOT23||@[Description]=Transistor NPN Darlington
 Transistor PNP Darlington BCV26||#SMD=3=SOT23||@[Description]=Transistor PNP Darlington 
+UF4007||#DO41=2=DIOD04||@[Description]=Diode
 US1A||#SMA=2=Diode SMA||@[Description]=Diode
 US1M||#SMA=2=DO-214AA||@[Description]=Fast diode
 WS2812b||#SMD=4=WS2812b||@[Description]=LED
