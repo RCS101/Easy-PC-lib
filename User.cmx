@@ -40,11 +40,13 @@ LED SMD||#0603=2=0603 LED
 MC74VHC1GT00||#SOT23-5=5=SOT23 - 5 pin||@[Description]=NAND gate
 MC34063a||#SOIC-8=8=SO8||@[Description]=DCDC controller
 MJD340||#DPAK=3=DPAK-369C||@[Description]=NPN
+NPN 2N6517CTA||#TO92=3=TO92||@[Description]=400v, 600mA
 Nucleo - F030R8||#SHIELD=76=Nucleo Shield
 Nucleo - L073RZ||#SHIELD=76=Nucleo Shield
 Photodiode - BPW34||#SMD=2=BPW34
 PMV30UN2||#SOT23=3=SOT23||@[Description]=N-chan
 PMV65XP||#SOT23=3=SOT23||@[Description]=P-chan
+PNP 2N6520TA||#TO92=3=TO92||@[Description]=350v, 500mA
 Q - Transistor - MMBT4403||#SOT23=3=SOT23||@[Description]=PNP
 Resistor||#0402=2=0402||#0603=2=0603||#0805=2=0805||#1206=2=1206
 Resistor - Trimmer pot||#SMD=3=TrimmerPot||@[Description]=10k 1 turn
