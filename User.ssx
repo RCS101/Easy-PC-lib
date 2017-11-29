@@ -24,6 +24,7 @@ IC - 8 pin||8
 Ion chamber||2
 KL03||25
 LCD module||16
+MCP1702||3
 NPN_Darlington||3
 Nucleo||76
 PD||2

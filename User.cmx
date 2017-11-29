@@ -14,6 +14,8 @@ B160||#SMA=2=Diode SMA||@[Description]=Diode
 Barrel Jack||#THROU=3=DC10A||@[Description]=Connector
 BAV99||#SOT23=3=SOT23||@[Description]=Dual Diode
 BC516||#TO92=3=TO92||@[Description]=Darlington PNP
+BC807||#SOT23=3=SOT23||@[Description]=PNP Transistor
+BC846C||#SOT23=3=SOT23||@[Description]=NPN transistor
 Capacitor||#0402=2=0402||#0603=2=C0603||#1206=2=C1206
 CR1220 Holder||#SMD=4=CR1220 holder
 CR2032 holder||#THROUGH=2=CR2032 holder
@@ -41,6 +43,7 @@ LED - 3 colour||#SMD=4=3x LED||@[Description]=Common anode
 LED SMD||#0603=2=0603 LED
 MC74VHC1GT00||#SOT23-5=5=SOT23 - 5 pin||@[Description]=NAND gate
 MC34063a||#DIP8=8=8DIL||@[Description]=DCDC controller||#SOIC-8=8=SO8||@[Description]=DCDC controller
+MCP1702||#SOT23=3=SOT23||@[Description]=LDO 3.3v
 MJD340||#DPAK=3=DPAK-369C||@[Description]=NPN
 NPN 2N6517CTA||#TO92=3=TO92||@[Description]=400v, 600mA
 Nucleo - F030R8||#SHIELD=76=Nucleo Shield
@@ -58,8 +61,10 @@ Rotary encoder w push||#THROUGH=7=Rotary Encoder
 SB140||#DO41=2=DIOD04||@[Description]=Schottky diode
 Screw terminal||#THROUGH=2=5mm terminal||@[Description]=2 pin
 Slide Switch||#SMD=6=Slide Switch
+STM32F030R8T6TR||#LQFP64=64=LQFP64||@[Description]=uC
 Tact SW||#SMD=4=Tact SMD
 Test pad||#Test pad=1=Test Point
+Thermistor||#0402=2=0402
 Transistor NPN Darlington BCV27||#SMD=3=SOT23||@[Description]=Transistor NPN Darlington
 Transistor PNP Darlington BCV26||#SMD=3=SOT23||@[Description]=Transistor PNP Darlington 
 UF4007||#DO41=2=DIOD04||@[Description]=Diode
