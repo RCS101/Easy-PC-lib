@@ -41,6 +41,7 @@ IRF640NS||#D2PAK=3=T0-263AB||@[Description]=MOSFET - NCHAN
 LCD 16x2||#MOD=20=LCD_module
 LED - 3 colour||#SMD=4=3x LED||@[Description]=Common anode
 LED SMD||#0603=2=0603 LED
+LM3405A||#TINYSOT=6=TinySOT||@[Description]=Constant current buck LED driver
 MC74VHC1GT00||#SOT23-5=5=SOT23 - 5 pin||@[Description]=NAND gate
 MC34063a||#DIP8=8=8DIL||@[Description]=DCDC controller||#SOIC-8=8=SO8||@[Description]=DCDC controller
 MCP1702||#SOT23=3=SOT23||@[Description]=LDO 3.3v
@@ -48,6 +49,7 @@ MJD340||#DPAK=3=DPAK-369C||@[Description]=NPN
 NPN 2N6517CTA||#TO92=3=TO92||@[Description]=400v, 600mA
 Nucleo - F030R8||#SHIELD=76=Nucleo Shield
 Nucleo - L073RZ||#SHIELD=76=Nucleo Shield
+PAM2804||#TSOT25=5=TSOT25||@[Description]=Constant current LED driver
 Photodiode - BPW34||#SMD=2=BPW34
 PMV30UN2||#SOT23=3=SOT23||@[Description]=N-chan
 PMV65XP||#SOT23=3=SOT23||@[Description]=P-chan
@@ -65,6 +67,7 @@ STM32F030R8T6TR||#LQFP64=64=LQFP64||@[Description]=uC
 Tact SW||#SMD=4=Tact SMD
 Test pad||#Test pad=1=Test Point
 Thermistor||#0402=2=0402
+Transformer (place holder)||#SOMETHIGN=4=4||@[Description]=will come back
 Transistor NPN Darlington BCV27||#SMD=3=SOT23||@[Description]=Transistor NPN Darlington
 Transistor PNP Darlington BCV26||#SMD=3=SOT23||@[Description]=Transistor PNP Darlington 
 UF4007||#DO41=2=DIOD04||@[Description]=Diode

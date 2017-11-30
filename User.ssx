@@ -1,6 +1,8 @@
 2x3 Box||6
 2x10way conn||20
 3x LED||4
+3x2 box||5
+3x3 square||6
 4+4 square||8
 7 Seg||12
 7 Seg, 4 char||36
@@ -35,5 +37,6 @@ SPI_flash||8
 STM32 48pin||48
 STM32F030R8||64
 TestPad||1
+Transformer||4
 Vreg||4
 WS2812b||4
