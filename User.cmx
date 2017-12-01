@@ -4,6 +4,7 @@
 7 Segment, 4 Char||#DIP=36=7 Seg, 4 char||@[Description]=Common Cathode
 7 Segment, 4 Character||#THROUGH=12=7 Seg||@[Description]=KingBright CC56-12EWA
 10way Connector||#THROUGH=10=10way_con
+30BQ015TR||#DO-214AB=2=DO-214AB||@[Description]=Schottky diode
 Arduino Nano||#MODULE=30=Arduino Nano||@[Description]=uC
 Arduino Shield||#THROUGH=32=Arduino shield
 AT25SF041-SSHD-B||#SOIC8=8=SOIC8||@[Description]=Flash 4MBit
@@ -17,6 +18,7 @@ BC516||#TO92=3=TO92||@[Description]=Darlington PNP
 BC807||#SOT23=3=SOT23||@[Description]=PNP Transistor
 BC846C||#SOT23=3=SOT23||@[Description]=NPN transistor
 Capacitor||#0402=2=0402||#0603=2=C0603||#1206=2=C1206
+Cortex debug Header||#THROUGH=10=2x5 header
 CR1220 Holder||#SMD=4=CR1220 holder
 CR2032 holder||#THROUGH=2=CR2032 holder
 Crystal 32kHz||#SMD=4=Crystal 32kHz||#Through=2=32kHz XTAL
