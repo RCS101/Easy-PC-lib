@@ -1,6 +1,7 @@
 1SMB5956BT3G||#SMB=2=DO-214AA||@[Description]=Zener 
 2x10 connector||#THROUGH=20=2x10way_con
 6WP||#DSC=5=5||@[Description]=5 way Pin Header
+7 Segment 2 Char||#SMD=20=7 Seg SMD
 7 Segment, 4 Char||#DIP=36=7 Seg, 4 char||@[Description]=Common Cathode
 7 Segment, 4 Character||#THROUGH=12=7 Seg||@[Description]=KingBright CC56-12EWA
 10way Connector||#THROUGH=10=10way_con
@@ -36,13 +37,13 @@ IC - Temp sensor - MCP9805||#TSOP8=8=8 TSOP||@[Description]=I2C Sensor
 IC - uC KL03||#QFN 24=25=QFN24 4x4
 IC - V reg - LM1117||#SOT223=4=SOT-223||@3.3v=3.3v||@5v=5v
 ICSP Header||#THROUGH=6=2x3 conn||@[Description]=Programming header
-Inductor||#THROUGH=2=5mm Inductor||@[Description]=5mm||#SMD 12mm=2=Inductor 12.5mm||@[Description]=5mm||#Inductor SM=2=Inductor SM||@[Description]=5mm
+Inductor||#0603=2=0603||@[Description]=5mm||#THROUGH=2=5mm Inductor||@[Description]=5mm||#SMD 12mm=2=Inductor 12.5mm||@[Description]=5mm||#Inductor SM=2=Inductor SM||@[Description]=5mm
 Ionisation Chamber||#SMD=2=Chamber pad
 IRF640||#TO220=3=TO220||@[Description]=MOSFET N-Chan
 IRF640NS||#D2PAK=3=T0-263AB||@[Description]=MOSFET - NCHAN
 LCD 16x2||#MOD=20=LCD_module
 LED - 3 colour||#SMD=4=3x LED||@[Description]=Common anode
-LED SMD||#0603=2=0603 LED
+LED SMD||#0603=2=0603 LED||#High power=3=OSRAM LED
 LM3405A||#TINYSOT=6=TinySOT||@[Description]=Constant current buck LED driver
 MC74VHC1GT00||#SOT23-5=5=SOT23 - 5 pin||@[Description]=NAND gate
 MC34063a||#DIP8=8=8DIL||@[Description]=DCDC controller||#SOIC-8=8=SO8||@[Description]=DCDC controller

@@ -6,6 +6,7 @@
 5mm terminal||2
 6way_con||6
 7 Seg||12
+7 Seg SMD||20
 7 Seg, 4 char||36
 7way_con||7
 8 TSOP||8
@@ -39,6 +40,7 @@ LCD_module||20
 LQFP48||48
 LQFP64||64
 Nucleo Shield||76
+OSRAM LED||3
 QFN24 4x4||25
 Reverse LED||3
 RJ11||6
