@@ -33,6 +33,7 @@ NPN_Darlington||3
 Nucleo||76
 PD||2
 PNP_Darlington||3
+PUSH-NO||4
 RA||2
 RVA||3
 SPI_flash||8
