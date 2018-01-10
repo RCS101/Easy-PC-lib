@@ -34,6 +34,7 @@ Diode SMA||2
 DO-214AA||2
 DO-214AB||2
 DPAK-369C||3
+Edge_connector||50
 Inductor 12.5mm||2
 Inductor SM||2
 LCD_module||20
@@ -42,6 +43,7 @@ LQFP64||64
 Nucleo Shield||76
 OSRAM LED||3
 QFN24 4x4||25
+QFP44||44
 Reverse LED||3
 RJ11||6
 Rotary Encoder||7

@@ -11,6 +11,7 @@
 10way conn||10
 74HC595||16
 Arduino||32
+Atmega32u4||44
 Attiny44/84||14
 Audio Socket||2
 Barrel Jack||3
@@ -23,6 +24,7 @@ CP||2
 CV||2
 D||2
 Debug header||10
+Edge connector 25||25
 HX711||16
 IC - 8 pin||8
 Ion chamber||2
