@@ -80,4 +80,5 @@ Transistor PNP Darlington BCV26||#SMD=3=SOT23||@[Description]=Transistor PNP Dar
 UF4007||#DO41=2=DIOD04||@[Description]=Diode
 US1A||#SMA=2=Diode SMA||@[Description]=Diode
 US1M||#SMA=2=DO-214AA||@[Description]=Fast diode
+USB micro||#SMD=9=Micro USB
 WS2812b||#SMD=4=WS2812b||@[Description]=LED

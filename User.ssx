@@ -44,5 +44,6 @@ STM32 48pin||48
 STM32F030R8||64
 TestPad||1
 Transformer||4
+USB||5
 Vreg||4
 WS2812b||4
