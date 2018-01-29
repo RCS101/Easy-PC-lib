@@ -10,6 +10,7 @@ Arduino Nano||#MODULE=30=Arduino Nano||@[Description]=uC
 Arduino Shield||#THROUGH=32=Arduino shield
 AT25SF041-SSHD-B||#SOIC8=8=SOIC8||@[Description]=Flash 4MBit
 AtMega32u4||#QFP44=44=QFP44
+ATSAMD21G18A-AUT||#QFN48=48=QFN48||@[Description]=uC M0+
 Attiny44/84||#DIP14=14=14DIL||@[Description]=Microcontroller
 Au Cap||#Au 8mm=2=Au Cap 8mm||#Au 10mm=2=Au Cap 10mm
 Audio Socket||#THROUGH=4=Audio socket||@[Description]=Mono
@@ -52,7 +53,7 @@ LED SMD||#0603=2=0603 LED||#High power=3=OSRAM LED
 LM3405A||#TINYSOT=6=TinySOT||@[Description]=Constant current buck LED driver
 MC74VHC1GT00||#SOT23-5=5=SOT23 - 5 pin||@[Description]=NAND gate
 MC34063a||#DIP8=8=8DIL||@[Description]=DCDC controller||#SOIC-8=8=SO8||@[Description]=DCDC controller
-MCP17C724||#QFN 16=18=QFN16 3x3||@[Description]=Dual H Bridge
+MCP17C724||#QFN 16=-1=QFN16 3x3||@[Description]=Dual H Bridge
 MCP1702||#SOT23=3=SOT23||@[Description]=LDO 3.3v
 MCP73831/2 Lipo charger||#SOT23-5=5=SOT23 - 5 pin
 Microbit edge||#CONN=50=Edge_connector
