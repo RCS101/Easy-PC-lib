@@ -78,7 +78,7 @@ Slide Switch||#SMD=6=Slide Switch
 STM32F030R8T6TR||#LQFP64=64=LQFP64||@[Description]=uC
 Tact SW||#SMD=4=Tact SMD
 Tactile switch||#DISC=4=FSM2JH
-Test pad||#Test pad=1=Test Point
+Test pad||#SM=1=TestPad SM||#Test pad=1=Test Point
 Thermistor||#0402=2=0402
 Transformer (place holder)||#SOMETHIGN=4=4||@[Description]=will come back
 Transistor NPN Darlington BCV27||#SMD=3=SOT23||@[Description]=Transistor NPN Darlington
