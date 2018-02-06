@@ -14,6 +14,7 @@
 9way_con||9
 10way_con||10
 16way_con||10
+25 conn||25
 32kHz XTAL||2
 0402||2
 0603||2
@@ -36,6 +37,7 @@ Diode SMA||2
 DO-214AA||2
 DO-214AB||2
 DPAK-369C||3
+Edge connector||80
 Edge_connector||50
 Inductor 12.5mm||2
 Inductor SM||2

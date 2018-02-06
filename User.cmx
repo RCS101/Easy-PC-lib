@@ -5,6 +5,7 @@
 7 Segment, 4 Char||#DIP=36=7 Seg, 4 char||@[Description]=Common Cathode
 7 Segment, 4 Character||#THROUGH=12=7 Seg||@[Description]=KingBright CC56-12EWA
 10way Connector||#THROUGH=10=10way_con
+25w conn||#THROUGH=25=25 conn
 30BQ015TR||#DO-214AB=2=DO-214AB||@[Description]=Schottky diode
 Arduino Nano||#MODULE=30=Arduino Nano||@[Description]=uC
 Arduino Shield||#THROUGH=32=Arduino shield
@@ -30,6 +31,7 @@ Debug header||#THROUGH=10=debug header
 Diode - MBR120VLSFT3G||#SOD-123FL=2=DO-214AA||@[Description]=schottky
 Diode - Precision Shunt V ref||#SOT23=3=SOT23||@[Description]=Voltage reference
 DS1307||#DIP8=8=8DIL||@[Description]=Real time clock||#SOIC8=8=SO8||@[Description]=Real time clock
+Edge Connector||#THROUGH=80=Edge connector
 IC - ADC - HX711||#SOP16=16=SO16||@[Description]=24 bit ADC
 IC - Comparator - MAX987||#SOT23 =5=SOT23 - 5 pin
 IC - N-Chan - IRFL4310||#SOT223=4=SOT-223||@[Description]=Mosfet
