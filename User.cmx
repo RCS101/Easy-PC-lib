@@ -58,6 +58,7 @@ MC34063a||#DIP8=8=8DIL||@[Description]=DCDC controller||#SOIC-8=8=SO8||@[Descrip
 MCP17C724||#QFN 16=-1=QFN16 3x3||@[Description]=Dual H Bridge
 MCP1702||#SOT23=3=SOT23||@[Description]=LDO 3.3v
 MCP73831/2 Lipo charger||#SOT23-5=5=SOT23 - 5 pin
+Micro Edge Double sided||#SMD=50=Edge_connector
 Microbit edge||#CONN=50=Edge_connector
 MJD340||#DPAK=3=DPAK-369C||@[Description]=NPN
 NPN 2N6517CTA||#TO92=3=TO92||@[Description]=400v, 600mA
