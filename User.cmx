@@ -79,8 +79,7 @@ SB140||#DO41=2=DIOD04||@[Description]=Schottky diode
 Screw terminal||#THROUGH=2=5mm terminal||@[Description]=2 pin
 Slide Switch||#SMD=6=Slide Switch
 STM32F030R8T6TR||#LQFP64=64=LQFP64||@[Description]=uC
-Tact SW||#SMD=4=Tact SMD
-Tactile switch||#DISC=4=FSM2JH
+Tactile switch||#DISC=4=FSM2JH||#SMD 6x6=4=Tactile SMD 6x6
 Test pad||#SM=1=TestPad SM||#Test pad=1=Test Point
 Thermistor||#0402=2=0402
 Transformer (place holder)||#SOMETHIGN=4=4||@[Description]=will come back
