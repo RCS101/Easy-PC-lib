@@ -47,7 +47,7 @@ Inductor||#0603=2=0603||@[Description]=5mm||#THROUGH=2=5mm Inductor||@[Descripti
 Ionisation Chamber||#SMD=2=Chamber pad
 IRF640||#TO220=3=TO220||@[Description]=MOSFET N-Chan
 IRF640NS||#D2PAK=3=T0-263AB||@[Description]=MOSFET - NCHAN
-JST PH||#THROUGH=2=JST PH through
+JST PH||#SMD=4=JST SMD||#THROUGH=2=JST PH through
 L78L05ACZ||#TO92=3=TO92||@[Description]=Linear Voltage regulator
 LCD 16x2||#MOD=20=LCD_module
 LED - 3 colour||#SMD=4=3x LED||@[Description]=Common anode
