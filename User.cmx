@@ -28,7 +28,7 @@ CR1220 Holder||#SMD=4=CR1220 holder
 CR2032 holder||#THROUGH=2=CR2032 holder
 Crystal 32kHz||#SMD=4=Crystal 32kHz||#Through=2=32kHz XTAL
 Debug header||#THROUGH=10=debug header
-Diode - MBR120VLSFT3G||#SOD-123FL=2=DO-214AA||@[Description]=schottky
+Diode - MBR120VLSFT3G||#SOT123FL=2=SOD-123FL||@[Description]=schottky
 Diode - Precision Shunt V ref||#SOT23=3=SOT23||@[Description]=Voltage reference
 DS1307||#DIP8=8=8DIL||@[Description]=Real time clock||#SOIC8=8=SO8||@[Description]=Real time clock
 Edge Connector||#THROUGH=80=Edge connector
