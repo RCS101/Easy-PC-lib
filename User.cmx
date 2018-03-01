@@ -5,6 +5,8 @@
 7 Segment, 4 Char||#DIP=36=7 Seg, 4 char||@[Description]=Common Cathode
 7 Segment, 4 Character||#THROUGH=12=7 Seg||@[Description]=KingBright CC56-12EWA
 10way Connector||#THROUGH=10=10way_con
+13way connector||#THROUGH=13=13way_con
+14way connector||#THROUGH=14=14way_con
 25w conn||#THROUGH=25=25 conn
 30BQ015TR||#DO-214AB=2=DO-214AB||@[Description]=Schottky diode
 Arduino Nano||#MODULE=30=Arduino Nano||@[Description]=uC

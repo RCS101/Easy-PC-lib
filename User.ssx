@@ -9,6 +9,8 @@
 7 Seg 2 Char||20
 7 Seg, 4 char||36
 10way conn||10
+13way conn||13
+14way conn||14
 25 conn||25
 74HC595||16
 Arduino||32
