@@ -16,6 +16,7 @@
 16way_con||10
 25 conn||25
 32kHz XTAL||2
+32kHz xtal SMD||2
 0402||2
 0603||2
 0603 LED||2
@@ -38,6 +39,7 @@ DO-214AA||2
 DO-214AB||2
 DPAK-369C||3
 Edge connector||80
+Edge connector SMD||82
 Edge_connector||50
 Header 8way SMD||8
 Header 10way SMD||10
