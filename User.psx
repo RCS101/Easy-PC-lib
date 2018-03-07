@@ -13,8 +13,12 @@
 8way_con||8
 9way_con||9
 10way_con||10
+13way_con||13
+14way_con||14
 16way_con||10
+25 conn||25
 32kHz XTAL||2
+32kHz xtal SMD||2
 0402||2
 0603||2
 0603 LED||2
@@ -37,17 +41,24 @@ Diode SMA||2
 DO-214AA||2
 DO-214AB||2
 DPAK-369C||3
+Edge connector||80
+Edge connector SMD||82
 Edge_connector||50
+Header 8way SMD||8
+Header 10way SMD||10
 Inductor 12.5mm||2
 Inductor SM||2
 JST PH through||2
+JST SMD||4
 LCD_module||20
 LQFP48||48
 LQFP64||64
 Micro USB||9
+Neon Bulb||2
 Nucleo Shield||76
 OSRAM LED||3
 QFN24 4x4||25
+QFN48||48
 QFP44||44
 Reverse LED||3
 RJ11||6
@@ -55,14 +66,18 @@ Rotary Encoder||7
 Rotary Encoder ALPS||7
 shell pad||1
 Slide Switch||6
+SO-8EP||11
+SOD-123FL||2
 SOIC8||8
 SOT-223||4
 SOT23 - 5 pin||5
 SOT23 - 8||8
 T0-263AB||3
 Tact SMD||4
+Tactile SMD 6x6||4
 Test Pad||1
 Test Point||1
+TestPad SM||1
 TinySOT||6
 Transformer||5
 TrimmerPot||3
