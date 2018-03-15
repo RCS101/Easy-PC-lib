@@ -23,6 +23,7 @@ BAV99||#SOT23=3=SOT23||@[Description]=Dual Diode
 BC516||#TO92=3=TO92||@[Description]=Darlington PNP
 BC807||#SOT23=3=SOT23||@[Description]=PNP Transistor
 BC846C||#SOT23=3=SOT23||@[Description]=NPN transistor
+Cap Pol||#1206=2=C1206 pol
 Capacitor||#0402=2=0402||#0603=2=C0603||#1206=2=C1206
 Ceramic resonator||#SMD=3=Ceramic oscillator
 Cortex debug Header||#THROUGH=10=2x5 header
@@ -30,7 +31,11 @@ CR1220 Holder||#SMD=4=CR1220 holder
 CR2032 holder||#THROUGH=2=CR2032 holder
 Crystal 32kHz||#SMD=4=Crystal 32kHz||#Through=2=32kHz XTAL||#SMD small=2=32kHz xtal SMD
 Debug header||#THROUGH=10=debug header
+<<<<<<< HEAD
+Diode - MBR120VLSFT3G||#SMA=2=Diode SMA||@[Description]=schottky
+=======
 Diode - MBR120VLSFT3G||#SOT123FL=2=SOD-123FL||@[Description]=schottky
+>>>>>>> 2255450912cee7029974845ea309575c36027f6d
 Diode - Precision Shunt V ref||#SOT23=3=SOT23||@[Description]=Voltage reference
 DS1307||#DIP8=8=8DIL||@[Description]=Real time clock||#SOIC8=8=SO8||@[Description]=Real time clock
 Edge Connector||#SMD=82=Edge connector SMD||#THROUGH=80=Edge connector
@@ -80,7 +85,7 @@ Resistor||#0402=2=0402||#0603=2=0603||#0805=2=0805||#1206=2=1206
 Resistor - Trimmer pot||#SMD=3=TrimmerPot||@[Description]=10k 1 turn
 Reverse LED||#1206=3=Reverse LED
 RJ11||#THROU=6=RJ11||@[Description]=Connector
-Rotary encoder w push||#THROUGH=7=Rotary Encoder
+Rotary encoder w push||#ALPS=7=Rotary Encoder ALPS||#THROUGH=7=Rotary Encoder
 SB140||#DO41=2=DIOD04||@[Description]=Schottky diode
 Screw terminal||#THROUGH=2=5mm terminal||@[Description]=2 pin
 Slide Switch||#SMD=6=Slide Switch
@@ -88,6 +93,7 @@ STM32F030R8T6TR||#LQFP64=64=LQFP64||@[Description]=uC
 Tactile switch||#DISC=4=FSM2JH||#SMD 6x6=4=Tactile SMD 6x6
 Test pad||#SM=1=TestPad SM||#Test pad=1=Test Point
 Thermistor||#0402=2=0402
+Transformer||#THOUGH=5=Transformer
 Transformer (place holder)||#SOMETHIGN=4=4||@[Description]=will come back
 Transistor NPN Darlington BCV27||#SMD=3=SOT23||@[Description]=Transistor NPN Darlington
 Transistor PNP Darlington BCV26||#SMD=3=SOT23||@[Description]=Transistor PNP Darlington 
