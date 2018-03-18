@@ -9,9 +9,6 @@
 7 Seg 2 Char||20
 7 Seg, 4 char||36
 10way conn||10
-13way conn||13
-14way conn||14
-25 conn||25
 74HC595||16
 Arduino||32
 Atmega32u4||44
@@ -29,8 +26,6 @@ CV||2
 D||2
 Debug header||10
 Edge connector 25||25
-Edge connector 50||50
-Edge connector 80||80
 HX711||16
 IC - 8 pin||8
 Ion chamber||2
@@ -45,7 +40,6 @@ PNP_Darlington||3
 PUSH-NO||4
 RA||2
 RVA||3
-SAM D12G||48
 SPI_flash||8
 STM32 48pin||48
 STM32F030R8||64

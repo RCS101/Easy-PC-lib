@@ -28,7 +28,6 @@ Au Cap 8mm||2
 Au Cap 10mm||2
 Audio socket||4
 BPW34||2
-C1206 pol||2
 Cap Through 5mm||2
 Ceramic oscillator||3
 Chamber pad||2
@@ -63,7 +62,6 @@ QFP44||44
 Reverse LED||3
 RJ11||6
 Rotary Encoder||7
-Rotary Encoder ALPS||7
 shell pad||1
 Slide Switch||6
 SO-8EP||11
@@ -79,7 +77,6 @@ Test Pad||1
 Test Point||1
 TestPad SM||1
 TinySOT||6
-Transformer||5
 TrimmerPot||3
 TSOT25||5
 WS2812b||4
