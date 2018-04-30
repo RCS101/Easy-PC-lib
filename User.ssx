@@ -8,6 +8,7 @@
 7 Seg||12
 7 Seg 2 Char||20
 7 Seg, 4 char||36
+10+10||20
 10way conn||10
 74HC595||16
 Arduino||32
@@ -46,5 +47,6 @@ STM32F030R8||64
 TestPad||1
 Transformer||4
 USB||5
+Vibration Sensor||2
 Vreg||4
 WS2812b||4

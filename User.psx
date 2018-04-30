@@ -33,6 +33,7 @@ Ceramic oscillator||3
 Chamber pad||2
 CR1220 holder||4
 CR2032 holder||2
+CR2032 SMD||3
 Crystal 32kHz||4
 DC10A||3
 Debug header||10
@@ -80,4 +81,5 @@ TestPad SM||1
 TinySOT||6
 TrimmerPot||3
 TSOT25||5
+TSSOP20||20
 WS2812b||4

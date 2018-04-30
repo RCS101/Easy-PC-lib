@@ -27,7 +27,7 @@ Capacitor||#0402=2=0402||#0603=2=C0603||#1206=2=C1206
 Ceramic resonator||#SMD=3=Ceramic oscillator
 Cortex debug Header||#THROUGH=10=2x5 header
 CR1220 Holder||#SMD=4=CR1220 holder
-CR2032 holder||#THROUGH=2=CR2032 holder
+CR2032 holder||#SMD=3=CR2032 SMD||#THROUGH=2=CR2032 holder
 Crystal 32kHz||#SMD=4=Crystal 32kHz||#Through=2=32kHz XTAL||#SMD small=2=32kHz xtal SMD
 Debug header||#THROUGH=10=debug header
 Diode - MBR120VLSFT3G||#SOT123FL=2=SOD-123FL||@[Description]=schottky
@@ -59,7 +59,7 @@ LED SMD||#0603=2=0603 LED||#High power=3=OSRAM LED
 LM3405A||#TINYSOT=6=TinySOT||@[Description]=Constant current buck LED driver
 MC74VHC1GT00||#SOT23-5=5=SOT23 - 5 pin||@[Description]=NAND gate
 MC34063a||#DIP8=8=8DIL||@[Description]=DCDC controller||#SOIC-8=8=SO8||@[Description]=DCDC controller
-MCP17C724||#QFN 16=18=QFN16 3x3||@[Description]=Dual H Bridge
+MCP17C724||#QFN 16=-1=QFN16 3x3||@[Description]=Dual H Bridge
 MCP1702||#SOT23=3=SOT23||@[Description]=LDO 3.3v
 MCP73831/2 Lipo charger||#SOT23-5=5=SOT23 - 5 pin
 Micro Edge Double sided||#SMD=50=Edge_connector
@@ -84,6 +84,7 @@ Rotary encoder w push||#THROUGH=7=Rotary Encoder
 SB140||#DO41=2=DIOD04||@[Description]=Schottky diode
 Screw terminal||#THROUGH=2=5mm terminal||@[Description]=2 pin
 Slide Switch||#SMD=6=Slide Switch
+STM32F030F4P6TR||#TSSOP20=20=TSSOP20||@[Description]=uC
 STM32F030R8T6TR||#LQFP64=64=LQFP64||@[Description]=uC
 Tactile switch||#DISC=4=FSM2JH||#SMD 6x6=4=Tactile SMD 6x6
 Test pad||#SM=1=TestPad SM||#Test pad=1=Test Point
@@ -95,4 +96,5 @@ UF4007||#DO41=2=DIOD04||@[Description]=Diode
 US1A||#SMA=2=Diode SMA||@[Description]=Diode
 US1M||#SMA=2=DO-214AA||@[Description]=Fast diode
 USB micro||#SMD=9=Micro USB
+Vibration Sensor||#THROUGH=2=2
 WS2812b||#SMD=4=WS2812b||@[Description]=LED
