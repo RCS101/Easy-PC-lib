@@ -19,6 +19,7 @@
 25 conn||25
 32kHz XTAL||2
 32kHz xtal SMD||2
+54-00035 plug||4
 0402||2
 0603||2
 0603 LED||2
@@ -65,6 +66,7 @@ Reverse LED||3
 RJ11||6
 Rotary Encoder||7
 shell pad||1
+SJ-4351X-SMT||8
 Slide Switch||6
 SO-8EP||11
 SOD-123FL||2

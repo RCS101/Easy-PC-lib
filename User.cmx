@@ -9,6 +9,7 @@
 14way connector||#THROUGH=14=14way_con
 25w conn||#THROUGH=25=25 conn
 30BQ015TR||#DO-214AB=2=DO-214AB||@[Description]=Schottky diode
+54-00035 Jack||#THROUGH=4=54-00035 plug||@[Description]=Audio Jack
 Arduino Nano||#MODULE=30=Arduino Nano||@[Description]=uC
 Arduino Shield||#THROUGH=32=Arduino shield
 AT25SF041-SSHD-B||#SOIC8=8=SOIC8||@[Description]=Flash 4MBit
@@ -23,7 +24,6 @@ BAV99||#SOT23=3=SOT23||@[Description]=Dual Diode
 BC516||#TO92=3=TO92||@[Description]=Darlington PNP
 BC807||#SOT23=3=SOT23||@[Description]=PNP Transistor
 BC846C||#SOT23=3=SOT23||@[Description]=NPN transistor
-BC81740MTF||#SOT23=3=SOT23||@[Description]=NPN transistor
 Capacitor||#0402=2=0402||#0603=2=C0603||#1206=2=C1206
 Ceramic resonator||#SMD=3=Ceramic oscillator
 Cortex debug Header||#THROUGH=10=2x5 header
@@ -60,7 +60,7 @@ LED SMD||#0603=2=0603 LED||#High power=3=OSRAM LED
 LM3405A||#TINYSOT=6=TinySOT||@[Description]=Constant current buck LED driver
 MC74VHC1GT00||#SOT23-5=5=SOT23 - 5 pin||@[Description]=NAND gate
 MC34063a||#DIP8=8=8DIL||@[Description]=DCDC controller||#SOIC-8=8=SO8||@[Description]=DCDC controller
-MCP17C724||#QFN 16=-1=QFN16 3x3||@[Description]=Dual H Bridge
+MCP17C724||#QFN 16=18=QFN16 3x3||@[Description]=Dual H Bridge
 MCP1702||#SOT23=3=SOT23||@[Description]=LDO 3.3v
 MCP73831/2 Lipo charger||#SOT23-5=5=SOT23 - 5 pin
 Micro Edge Double sided||#SMD=50=Edge_connector
@@ -84,6 +84,7 @@ RJ11||#THROU=6=RJ11||@[Description]=Connector
 Rotary encoder w push||#THROUGH=7=Rotary Encoder
 SB140||#DO41=2=DIOD04||@[Description]=Schottky diode
 Screw terminal||#THROUGH=2=5mm terminal||@[Description]=2 pin
+SJ-43512-SMT||#SMD=8=SJ-4351X-SMT||@[Description]=3.5mm Audio Jack
 Slide Switch||#SMD=6=Slide Switch
 STM32F030F4P6TR||#TSSOP20=20=TSSOP20||@[Description]=uC
 STM32F030R8T6TR||#LQFP64=64=LQFP64||@[Description]=uC
