@@ -10,13 +10,13 @@
 25w conn||#THROUGH=25=25 conn
 30BQ015TR||#DO-214AB=2=DO-214AB||@[Description]=Schottky diode
 54-00035 Jack||#THROUGH=4=54-00035 plug||@[Description]=Audio Jack
+Al Cap||#8mm=2=Al Cap 8mm||#10mm=2=Al Cap 10mm
 Arduino Nano||#MODULE=30=Arduino Nano||@[Description]=uC
 Arduino Shield||#THROUGH=32=Arduino shield
 AT25SF041-SSHD-B||#SOIC8=8=SOIC8||@[Description]=Flash 4MBit
 AtMega32u4||#QFP44=44=QFP44
 ATSAMD21G18A-AUT||#QFN48=48=QFN48||@[Description]=uC M0+
 Attiny44/84||#DIP14=14=14DIL||@[Description]=Microcontroller
-Au Cap||#Au 8mm=2=Au Cap 8mm||#Au 10mm=2=Au Cap 10mm
 Audio Socket||#THROUGH=4=Audio socket||@[Description]=Mono
 B160||#SMA=2=Diode SMA||@[Description]=Diode
 Barrel Jack||#THROU=3=DC10A||@[Description]=Connector
@@ -58,7 +58,7 @@ JST PH||#SMD=4=JST SMD||#THROUGH=2=JST PH through
 L78L05ACZ||#TO92=3=TO92||@[Description]=Linear Voltage regulator
 LCD 16x2||#MOD=20=LCD_module
 LED - 3 colour||#SMD=4=3x LED||@[Description]=Common anode
-LED SMD||#0603=2=0603 LED||#High power=3=OSRAM LED
+LED SMD||#0603=2=0603 LED||#Samsung=3=Samsung High power LED||#High power=3=OSRAM LED
 LM3405A||#TINYSOT=6=TinySOT||@[Description]=Constant current buck LED driver
 MC74VHC1GT00||#SOT23-5=5=SOT23 - 5 pin||@[Description]=NAND gate
 MC34063a||#DIP8=8=8DIL||@[Description]=DCDC controller||#SOIC-8=8=SO8||@[Description]=DCDC controller
@@ -72,7 +72,7 @@ Neon Bulb||#THROUGH=2=Neon Bulb
 NPN 2N6517CTA||#TO92=3=TO92||@[Description]=400v, 600mA
 Nucleo - F030R8||#SHIELD=76=Nucleo Shield
 Nucleo - L073RZ||#SHIELD=76=Nucleo Shield
-PAM2804||#TSOT25=5=TSOT25||@[Description]=Constant current LED driver
+PAM2804||#SOT23-5=5=SOT23 - 5 pin||@[Description]=Constant current LED driver
 PAM2808||#SO-8EP=11=SO-8EP
 Photodiode - BPW34||#SMD=2=BPW34
 PMV30UN2||#SOT23=3=SOT23||@[Description]=N-chan||#SOT23-small=3=SOT23-small||@[Description]=N-chan

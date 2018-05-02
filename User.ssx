@@ -40,6 +40,7 @@ PD||2
 PNP_Darlington||3
 PUSH-NO||4
 RA||2
+regulator 3 pin||3
 RVA||3
 SJ-43514-SMT||4
 SPI_flash||8

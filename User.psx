@@ -23,10 +23,10 @@
 0402||2
 0603||2
 0603 LED||2
+Al Cap 8mm||2
+Al Cap 10mm||2
 Arduino Nano||30
 Arduino shield||32
-Au Cap 8mm||2
-Au Cap 10mm||2
 Audio socket||4
 BPW34||2
 Cap Through 5mm||2
@@ -65,6 +65,7 @@ QFP44||44
 Reverse LED||3
 RJ11||6
 Rotary Encoder||7
+Samsung High power LED||3
 shell pad||1
 SJ-4351X-SMT||8
 Slide Switch||6
