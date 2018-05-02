@@ -1,5 +1,6 @@
 1SMB5956BT3G||#SMB=2=DO-214AA||@[Description]=Zener 
 2x10 connector||#THROUGH=20=2x10way_con
+4WP||#SMD=4=4 pad conn
 6WP||#DSC=5=5||@[Description]=5 way Pin Header
 7 Segment 2 Char||#SMD=20=7 Seg SMD
 7 Segment, 4 Char||#DIP=36=7 Seg, 4 char||@[Description]=Common Cathode
@@ -7,6 +8,7 @@
 10way Connector||#THROUGH=10=10way_con
 13way connector||#THROUGH=13=13way_con
 14way connector||#THROUGH=14=14way_con
+16WP||#THROUGH=16=16way_con
 25w conn||#THROUGH=25=25 conn
 30BQ015TR||#DO-214AB=2=DO-214AB||@[Description]=Schottky diode
 54-00035 Jack||#THROUGH=4=54-00035 plug||@[Description]=Audio Jack
@@ -83,7 +85,7 @@ Resistor||#0402=2=0402||#0603=2=0603||#0805=2=0805||#1206=2=1206
 Resistor - Trimmer pot||#SMD=3=TrimmerPot||@[Description]=10k 1 turn
 Reverse LED||#1206=3=Reverse LED
 RJ11||#THROU=6=RJ11||@[Description]=Connector
-Rotary encoder w push||#THROUGH=7=Rotary Encoder
+Rotary encoder w push||#THROUGH=7=Rotary Encoder||#EC12D1564402=7=Rotary Encoder ALPS EC12D156440
 SB140||#DO41=2=DIOD04||@[Description]=Schottky diode
 Screw terminal||#THROUGH=2=5mm terminal||@[Description]=2 pin
 SJ-43512-SMT||#SMD=8=SJ-4351X-SMT||@[Description]=3.5mm Audio Jack
