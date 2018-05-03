@@ -12,7 +12,7 @@
 25w conn||#THROUGH=25=25 conn
 30BQ015TR||#DO-214AB=2=DO-214AB||@[Description]=Schottky diode
 54-00035 Jack||#THROUGH=4=54-00035 plug||@[Description]=Audio Jack
-Al Cap||#8mm=2=Al Cap 8mm||#10mm=2=Al Cap 10mm
+Al Cap||#6mm=2=Al Cap 6.3mm||#8mm=2=Al Cap 8mm||#10mm=2=Al Cap 10mm
 Arduino Nano||#MODULE=30=Arduino Nano||@[Description]=uC
 Arduino Shield||#THROUGH=32=Arduino shield
 AT25SF041-SSHD-B||#SOIC8=8=SOIC8||@[Description]=Flash 4MBit
@@ -27,6 +27,8 @@ BC516||#TO92=3=TO92||@[Description]=Darlington PNP
 BC807||#SOT23=3=SOT23||@[Description]=PNP Transistor||#SOT23-small=3=SOT23-small||@[Description]=PNP Transistor
 BC846C||#SOT23=3=SOT23||@[Description]=NPN transistor
 BC81740MTF||#SOT23=3=SOT23||@[Description]=NPN
+Bulb Contact Inner||#SMD=1=Bulb_contact_inner
+Bulb Contact Outer||#SMD=1=Bulb_contact_outer
 Capacitor||#0402=2=0402||#0603=2=C0603||#1206=2=C1206
 Capacitor (Tant)||#1206=2=1206||@[Description]=Tant
 Ceramic resonator||#SMD=3=Ceramic oscillator
@@ -60,6 +62,7 @@ JST PH||#SMD=4=JST SMD||#THROUGH=2=JST PH through
 L78L05ACZ||#TO92=3=TO92||@[Description]=Linear Voltage regulator
 LCD 16x2||#MOD=20=LCD_module
 LED - 3 colour||#SMD=4=3x LED||@[Description]=Common anode
+LED Green-Green-IR||#THROUGH=4=4 pin LED
 LED SMD||#0603=2=0603 LED||#Samsung=3=Samsung High power LED||#High power=3=OSRAM LED
 LM3405A||#TINYSOT=6=TinySOT||@[Description]=Constant current buck LED driver
 MC74VHC1GT00||#SOT23-5=5=SOT23 - 5 pin||@[Description]=NAND gate
