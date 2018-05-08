@@ -30,7 +30,7 @@ BC81740MTF||#SOT23=3=SOT23||@[Description]=NPN
 Bulb Contact Inner||#SMD=1=Bulb_contact_inner
 Bulb Contact Outer||#SMD=1=Bulb_contact_outer
 Capacitor||#0402=2=0402||#0603=2=C0603||#1206=2=C1206
-Capacitor (Tant)||#1206=2=1206||@[Description]=Tant
+Capacitor (Tant)||#1206=2=1206||@[Description]=Tant||#1411=2=1411||@[Description]=Tant
 Ceramic resonator||#SMD=3=Ceramic oscillator
 Cortex debug Header||#THROUGH=10=2x5 header
 CR1220 Holder||#SMD=4=CR1220 holder
