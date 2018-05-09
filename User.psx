@@ -66,6 +66,7 @@ Micro USB||9
 Neon Bulb||2
 Nucleo Shield||76
 OSRAM LED||3
+Pogo Pin pad||1
 QFN24 4x4||25
 QFN48||48
 QFP44||44
@@ -77,7 +78,7 @@ Samsung High power LED||3
 shell pad||1
 SJ-4351X-SMT||8
 Slide Switch||6
-SO-8EP||11
+SO-8EP||9
 SOD-123FL||2
 SOIC8||8
 SOT-223||4
