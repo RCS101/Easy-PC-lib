@@ -80,6 +80,7 @@ Nucleo - L073RZ||#SHIELD=76=Nucleo Shield
 PAM2804||#SOT23-5=5=SOT23 - 5 pin||@[Description]=Constant current LED driver
 PAM2808||#SO-8EP=9=SO-8EP
 Photodiode - BPW34||#SMD=2=BPW34
+PMMT491A||#SOT23=3=SOT23_small||@[Description]=NPN
 PMV30UN2||#SOT23=3=SOT23||@[Description]=N-chan||#SOT23-small=3=SOT23-small||@[Description]=N-chan
 PMV65XP||#SOT23=3=SOT23||@[Description]=P-chan||#SOT23-small=3=SOT23-small||@[Description]=P-chan
 PNP 2N6520TA||#TO92=3=TO92||@[Description]=350v, 500mA
