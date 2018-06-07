@@ -12,7 +12,6 @@
 25w conn||#THROUGH=25=25 conn
 30BQ015TR||#DO-214AB=2=DO-214AB||@[Description]=Schottky diode
 54-00035 Jack||#THROUGH=4=54-00035 plug||@[Description]=Audio Jack
-Al Cap||#6mm=2=Al Cap 6.3mm||#8mm=2=Al Cap 8mm||#10mm=2=Al Cap 10mm
 Arduino Nano||#MODULE=30=Arduino Nano||@[Description]=uC
 Arduino Shield||#THROUGH=32=Arduino shield
 AT25SF041-SSHD-B||#SOIC8=8=SOIC8||@[Description]=Flash 4MBit
@@ -30,6 +29,7 @@ BC81740MTF||#SOT23=3=SOT23||@[Description]=NPN
 Bulb Contact Inner||#SMD=1=Bulb_contact_inner
 Bulb Contact Outer||#SMD=1=Bulb_contact_outer
 Capacitor||#0402=2=0402||#0603=2=C0603||#1206=2=C1206
+Capacitor (Al)||#4mm=2=Al Cap 4mm||#6mm=2=Al Cap 6.3mm||#8mm=2=Al Cap 8mm||#10mm=2=Al Cap 10mm
 Capacitor (Tant)||#1206=2=1206||@[Description]=Tant||#1411=2=1411||@[Description]=Tant
 Ceramic resonator||#SMD=3=Ceramic oscillator
 Cortex debug Header||#THROUGH=10=2x5 header
