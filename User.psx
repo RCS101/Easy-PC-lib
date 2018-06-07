@@ -13,6 +13,7 @@
 7way_con||7
 8 TSOP||8
 8way_con||8
+9 pad conn||9
 9way_con||9
 10way_con||10
 13way_con||13
@@ -26,7 +27,6 @@
 0603||2
 0603 LED||2
 1411||2
-Al Cap 4mm||2
 Al Cap 6.3mm||2
 Al Cap 8mm||2
 Al Cap 10mm||2
@@ -96,5 +96,6 @@ TestPad SM||1
 TinySOT||6
 TrimmerPot||3
 TSOT25||5
+TSSOP16||16
 TSSOP20||20
 WS2812b||4

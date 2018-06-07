@@ -5,6 +5,7 @@
 7 Segment 2 Char||#SMD=20=7 Seg SMD
 7 Segment, 4 Char||#DIP=36=7 Seg, 4 char||@[Description]=Common Cathode
 7 Segment, 4 Character||#THROUGH=12=7 Seg||@[Description]=KingBright CC56-12EWA
+9WP||#SM=9=9 pad conn
 10way Connector||#THROUGH=10=10way_con
 13way connector||#THROUGH=13=13way_con
 14way connector||#THROUGH=14=14way_con
@@ -12,6 +13,7 @@
 25w conn||#THROUGH=25=25 conn
 30BQ015TR||#DO-214AB=2=DO-214AB||@[Description]=Schottky diode
 54-00035 Jack||#THROUGH=4=54-00035 plug||@[Description]=Audio Jack
+74HC595||#TSSOP16=16=TSSOP16||@[Description]=Shift Register
 Arduino Nano||#MODULE=30=Arduino Nano||@[Description]=uC
 Arduino Shield||#THROUGH=32=Arduino shield
 AT25SF041-SSHD-B||#SOIC8=8=SOIC8||@[Description]=Flash 4MBit
@@ -29,7 +31,7 @@ BC81740MTF||#SOT23=3=SOT23||@[Description]=NPN
 Bulb Contact Inner||#SMD=1=Bulb_contact_inner
 Bulb Contact Outer||#SMD=1=Bulb_contact_outer
 Capacitor||#0402=2=0402||#0603=2=C0603||#1206=2=C1206
-Capacitor (Al)||#4mm=2=Al Cap 4mm||#6mm=2=Al Cap 6.3mm||#8mm=2=Al Cap 8mm||#10mm=2=Al Cap 10mm
+Capacitor (Al)||#4mm=-1=Al Cap 4mm||#6mm=2=Al Cap 6.3mm||#8mm=2=Al Cap 8mm||#10mm=2=Al Cap 10mm
 Capacitor (Tant)||#1206=2=1206||@[Description]=Tant||#1411=2=1411||@[Description]=Tant
 Ceramic resonator||#SMD=3=Ceramic oscillator
 Cortex debug Header||#THROUGH=10=2x5 header
@@ -67,7 +69,7 @@ LED SMD||#0603=2=0603 LED||#Samsung=3=Samsung High power LED||#High power=3=OSRA
 LM3405A||#TINYSOT=6=TinySOT||@[Description]=Constant current buck LED driver
 MC74VHC1GT00||#SOT23-5=5=SOT23 - 5 pin||@[Description]=NAND gate
 MC34063a||#DIP8=8=8DIL||@[Description]=DCDC controller||#SOIC-8=8=SO8||@[Description]=DCDC controller
-MCP17C724||#QFN 16=18=QFN16 3x3||@[Description]=Dual H Bridge
+MCP17C724||#QFN 16=-1=QFN16 3x3||@[Description]=Dual H Bridge
 MCP1702||#SOT23=3=SOT23||@[Description]=LDO 3.3v||#SOT23-small=3=SOT23-small||@[Description]=LDO 3.3v
 MCP73831/2 Lipo charger||#SOT23-5=5=SOT23 - 5 pin
 Micro Edge Double sided||#SMD=50=Edge_connector
@@ -80,7 +82,7 @@ Nucleo - L073RZ||#SHIELD=76=Nucleo Shield
 PAM2804||#SOT23-5=5=SOT23 - 5 pin||@[Description]=Constant current LED driver
 PAM2808||#SO-8EP=9=SO-8EP
 Photodiode - BPW34||#SMD=2=BPW34
-PMMT491A||#SOT23=3=SOT23_small||@[Description]=NPN
+PMMT491A||#SOT23=-1=SOT23_small||@[Description]=NPN
 PMV30UN2||#SOT23=3=SOT23||@[Description]=N-chan||#SOT23-small=3=SOT23-small||@[Description]=N-chan
 PMV65XP||#SOT23=3=SOT23||@[Description]=P-chan||#SOT23-small=3=SOT23-small||@[Description]=P-chan
 PNP 2N6520TA||#TO92=3=TO92||@[Description]=350v, 500mA
