@@ -38,6 +38,7 @@ MPC17C724 Dual H bridge||16
 NPN_Darlington||3
 Nucleo||76
 PD||2
+Piezo||2
 PNP_Darlington||3
 PUSH-NO||4
 RA||2

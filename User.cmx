@@ -69,7 +69,7 @@ LED SMD||#0603=2=0603 LED||#Samsung=3=Samsung High power LED||#High power=3=OSRA
 LM3405A||#TINYSOT=6=TinySOT||@[Description]=Constant current buck LED driver
 MC74VHC1GT00||#SOT23-5=5=SOT23 - 5 pin||@[Description]=NAND gate
 MC34063a||#DIP8=8=8DIL||@[Description]=DCDC controller||#SOIC-8=8=SO8||@[Description]=DCDC controller
-MCP17C724||#QFN 16=-1=QFN16 3x3||@[Description]=Dual H Bridge
+MCP17C724||#QFN16=17=QFN16||@[Description]=Dual H Bridge
 MCP1702||#SOT23=3=SOT23||@[Description]=LDO 3.3v||#SOT23-small=3=SOT23-small||@[Description]=LDO 3.3v
 MCP73831/2 Lipo charger||#SOT23-5=5=SOT23 - 5 pin
 Micro Edge Double sided||#SMD=50=Edge_connector
@@ -82,6 +82,7 @@ Nucleo - L073RZ||#SHIELD=76=Nucleo Shield
 PAM2804||#SOT23-5=5=SOT23 - 5 pin||@[Description]=Constant current LED driver
 PAM2808||#SO-8EP=9=SO-8EP
 Photodiode - BPW34||#SMD=2=BPW34
+Piezo Buzzer||#SMD=2=Piezo
 PMMT491A||#SOT23=-1=SOT23_small||@[Description]=NPN
 PMV30UN2||#SOT23=3=SOT23||@[Description]=N-chan||#SOT23-small=3=SOT23-small||@[Description]=N-chan
 PMV65XP||#SOT23=3=SOT23||@[Description]=P-chan||#SOT23-small=3=SOT23-small||@[Description]=P-chan
