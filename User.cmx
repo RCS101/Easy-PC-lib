@@ -60,6 +60,7 @@ Inductor||#0603=2=0603||@[Description]=5mm||#THROUGH=2=5mm Inductor||@[Descripti
 Ionisation Chamber||#SMD=2=Chamber pad
 IRF640||#TO220=3=TO220||@[Description]=MOSFET N-Chan
 IRF640NS||#D2PAK=3=T0-263AB||@[Description]=MOSFET - NCHAN
+IS31AP4991 AUDIO AMPLIFIER||#SIOC8=8=SOIC8
 JST PH||#SMD=4=JST SMD||#THROUGH=2=JST PH through
 L78L05ACZ||#TO92=3=TO92||@[Description]=Linear Voltage regulator
 LCD 16x2||#MOD=20=LCD_module
@@ -69,6 +70,7 @@ LED SMD||#0603=2=0603 LED||#Samsung=3=Samsung High power LED||#High power=3=OSRA
 LM3405A||#TINYSOT=6=TinySOT||@[Description]=Constant current buck LED driver
 MC74VHC1GT00||#SOT23-5=5=SOT23 - 5 pin||@[Description]=NAND gate
 MC34063a||#DIP8=8=8DIL||@[Description]=DCDC controller||#SOIC-8=8=SO8||@[Description]=DCDC controller
+MCP6L01RT-E/OT||#SOT23-5=5=SOT23 - 5 pin||@[Description]=Op Amp
 MCP17C724||#QFN16=17=QFN16||@[Description]=Dual H Bridge
 MCP1702||#SOT23=3=SOT23||@[Description]=LDO 3.3v||#SOT23-small=3=SOT23-small||@[Description]=LDO 3.3v
 MCP73831/2 Lipo charger||#SOT23-5=5=SOT23 - 5 pin
@@ -96,11 +98,12 @@ RJ11||#THROU=6=RJ11||@[Description]=Connector
 Rotary encoder w push||#THROUGH=7=Rotary Encoder||#EC12D1564402=7=Rotary Encoder ALPS EC12D156440
 SB140||#DO41=2=DIOD04||@[Description]=Schottky diode
 Screw terminal||#THROUGH=2=5mm terminal||@[Description]=2 pin
+Si4702/03||#QFN=21=Si4702/03||@[Description]=FM Radio
 SJ-43512-SMT||#SMD=8=SJ-4351X-SMT||@[Description]=3.5mm Audio Jack
 Slide Switch||#SMD=6=Slide Switch
 STM32F030F4P6TR||#TSSOP20=20=TSSOP20||@[Description]=uC
 STM32F030R8T6TR||#LQFP64=64=LQFP64||@[Description]=uC
-Tactile switch||#DISC=4=FSM2JH||#SMD 6x6=4=Tactile SMD 6x6
+Tactile switch||#DISC=4=FSM2JH||#2 Leg=2=Tact switch 2 leg||#SMD 6x6=4=Tactile SMD 6x6
 Test pad||#SM=1=TestPad SM||#Test pad=1=Test Point
 Thermistor||#0402=2=0402
 Transformer||#EFD15 SMD=10=EFD15 SMD||@[Description]=will come back||#SOMETHIGN=4=4||@[Description]=will come back

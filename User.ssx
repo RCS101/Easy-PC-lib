@@ -44,6 +44,7 @@ PUSH-NO||4
 RA||2
 regulator 3 pin||3
 RVA||3
+Si4702/03||21
 SJ-43514-SMT||4
 SPI_flash||8
 STM32 48pin||48
