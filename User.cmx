@@ -1,4 +1,5 @@
 1SMB5956BT3G||#SMB=2=DO-214AA||@[Description]=Zener 
+2x5 Connector||#THROUGH=10=2x5 header
 2x10 connector||#THROUGH=20=2x10way_con
 4WP||#SMD=4=4 pad conn
 6WP||#DSC=5=5||@[Description]=5 way Pin Header
@@ -14,6 +15,7 @@
 30BQ015TR||#DO-214AB=2=DO-214AB||@[Description]=Schottky diode
 54-00035 Jack||#THROUGH=4=54-00035 plug||@[Description]=Audio Jack
 74HC595||#TSSOP16=16=TSSOP16||@[Description]=Shift Register
+ALS-PT19-315C/L177/TR8||#0603=2=0603||@[Description]=Phototransistor
 Arduino Nano||#MODULE=30=Arduino Nano||@[Description]=uC
 Arduino Shield||#THROUGH=32=Arduino shield
 AT25SF041-SSHD-B||#SOIC8=8=SOIC8||@[Description]=Flash 4MBit
@@ -26,7 +28,7 @@ Barrel Jack||#THROU=3=DC10A||@[Description]=Connector
 BAV99||#SOT23=3=SOT23||@[Description]=Dual Diode||#SOT23-small=3=SOT23-small||@[Description]=Dual Diode
 BC516||#TO92=3=TO92||@[Description]=Darlington PNP
 BC807||#SOT23=3=SOT23||@[Description]=PNP Transistor||#SOT23-small=3=SOT23-small||@[Description]=PNP Transistor
-BC846C||#SOT23=3=SOT23||@[Description]=NPN transistor
+BC846C||#SOT23=3=SOT23||@[Description]=NPN transistor||#SOT323=3=SOT-323||@[Description]=NPN transistor||#SOT723=3=SOT-723||@[Description]=NPN transistor
 BC81740MTF||#SOT23=3=SOT23||@[Description]=NPN
 Bulb Contact Inner||#SMD=1=Bulb_contact_inner
 Bulb Contact Outer||#SMD=1=Bulb_contact_outer
@@ -64,9 +66,9 @@ IS31AP4991 AUDIO AMPLIFIER||#SIOC8=8=SOIC8
 JST PH||#SMD=4=JST SMD||#THROUGH=2=JST PH through
 L78L05ACZ||#TO92=3=TO92||@[Description]=Linear Voltage regulator
 LCD 16x2||#MOD=20=LCD_module
+LED||#3mm=2=3mm LED||#0603=2=0603 LED||#Samsung=3=Samsung High power LED||#High power=3=OSRAM LED
 LED - 3 colour||#SMD=4=3x LED||@[Description]=Common anode
 LED Green-Green-IR||#THROUGH=4=4 pin LED
-LED SMD||#0603=2=0603 LED||#Samsung=3=Samsung High power LED||#High power=3=OSRAM LED
 LM3405A||#TINYSOT=6=TinySOT||@[Description]=Constant current buck LED driver
 MC74VHC1GT00||#SOT23-5=5=SOT23 - 5 pin||@[Description]=NAND gate
 MC34063a||#DIP8=8=8DIL||@[Description]=DCDC controller||#SOIC-8=8=SO8||@[Description]=DCDC controller
@@ -76,6 +78,7 @@ MCP1702||#SOT23=3=SOT23||@[Description]=LDO 3.3v||#SOT23-small=3=SOT23-small||@[
 MCP73831/2 Lipo charger||#SOT23-5=5=SOT23 - 5 pin
 Micro Edge Double sided||#SMD=50=Edge_connector
 Microbit edge||#CONN=50=Edge_connector
+Microphone||#SMD=4=Microphone||@[Description]=MEMS
 MJD340||#DPAK=3=DPAK-369C||@[Description]=NPN
 Neon Bulb||#THROUGH=2=Neon Bulb
 NPN 2N6517CTA||#TO92=3=TO92||@[Description]=400v, 600mA
@@ -83,7 +86,7 @@ Nucleo - F030R8||#SHIELD=76=Nucleo Shield
 Nucleo - L073RZ||#SHIELD=76=Nucleo Shield
 PAM2804||#SOT23-5=5=SOT23 - 5 pin||@[Description]=Constant current LED driver
 PAM2808||#SO-8EP=9=SO-8EP
-Photodiode - BPW34||#SMD=2=BPW34
+Photodiode||#3mm=2=3mm LED||#SMD=2=BPW34
 Piezo Buzzer||#SMD=2=Piezo
 PMMT491A||#SOT23=-1=SOT23_small||@[Description]=NPN
 PMV30UN2||#SOT23=3=SOT23||@[Description]=N-chan||#SOT23-small=3=SOT23-small||@[Description]=N-chan
@@ -102,6 +105,7 @@ Si4702/03||#QFN=21=Si4702/03||@[Description]=FM Radio
 SJ-43512-SMT||#SMD=8=SJ-4351X-SMT||@[Description]=3.5mm Audio Jack
 Slide Switch||#SMD=6=Slide Switch
 STM32F030F4P6TR||#TSSOP20=20=TSSOP20||@[Description]=uC
+STM32F030K6T6||#QFP32=32=QFP32||@[Description]=Microcontroller
 STM32F030R8T6TR||#LQFP64=64=LQFP64||@[Description]=uC
 Tactile switch||#DISC=4=FSM2JH||#2 Leg=2=Tact switch 2 leg||#SMD 6x6=4=Tactile SMD 6x6
 Test pad||#SM=1=TestPad SM||#Test pad=1=Test Point

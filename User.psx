@@ -1,6 +1,7 @@
 2x3 conn||6
 2x5 header||10
 2x10way_con||20
+3mm LED||2
 3x LED||4
 4 pad conn||4
 4 pin LED||4
@@ -64,6 +65,7 @@ LCD_module||20
 LQFP48||48
 LQFP64||64
 Micro USB||9
+Microphone||4
 MSOP8||8
 Neon Bulb||2
 Nucleo Shield||76
@@ -73,6 +75,7 @@ Pogo Pin pad||1
 QFN16||17
 QFN24 4x4||25
 QFN48||48
+QFP32||32
 QFP44||44
 Reverse LED||3
 RJ11||6
@@ -87,6 +90,8 @@ SO-8EP||9
 SOD-123FL||2
 SOIC8||8
 SOT-223||4
+SOT-323||3
+SOT-723||3
 SOT23 - 5 pin||5
 SOT23 - 8||8
 SOT23-small||3

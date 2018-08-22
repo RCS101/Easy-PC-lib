@@ -34,10 +34,12 @@ Ion chamber||2
 KL03||25
 LCD module||16
 MCP1702||3
+MEMS Microphone||4
 MPC17C724 Dual H bridge||16
 NPN_Darlington||3
 Nucleo||76
 PD||2
+Phototransistor||2
 Piezo||2
 PNP_Darlington||3
 PUSH-NO||4
@@ -48,6 +50,7 @@ Si4702/03||21
 SJ-43514-SMT||4
 SPI_flash||8
 STM32 48pin||48
+STM32F030-32pin||32
 STM32F030R8||64
 TestPad||1
 Transformer||4
