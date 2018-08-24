@@ -29,9 +29,10 @@ BAV99||#SOT23=3=SOT23||@[Description]=Dual Diode||#SOT23-small=3=SOT23-small||@[
 BC516||#TO92=3=TO92||@[Description]=Darlington PNP
 BC807||#SOT23=3=SOT23||@[Description]=PNP Transistor||#SOT23-small=3=SOT23-small||@[Description]=PNP Transistor
 BC846C||#SOT23=3=SOT23||@[Description]=NPN transistor||#SOT323=3=SOT-323||@[Description]=NPN transistor||#SOT723=3=SOT-723||@[Description]=NPN transistor
-BC81740MTF||#SOT23=3=SOT23||@[Description]=NPN
+BC81740MTF||#SOT23=3=SOT23||@[Description]=NPN||#SOT23-small=3=SOT23-small||@[Description]=NPN
 Bulb Contact Inner||#SMD=1=Bulb_contact_inner
 Bulb Contact Outer||#SMD=1=Bulb_contact_outer
+BZX84||#SOT23=3=SOT23-small||@[Description]=ZDiode
 Capacitor||#0402=2=0402||#0603=2=C0603||#1206=2=C1206
 Capacitor (Al)||#4mm=-1=Al Cap 4mm||#6mm=2=Al Cap 6.3mm||#8mm=2=Al Cap 8mm||#10mm=2=Al Cap 10mm
 Capacitor (Tant)||#1206=2=1206||@[Description]=Tant||#1411=2=1411||@[Description]=Tant
