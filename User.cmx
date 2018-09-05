@@ -109,6 +109,7 @@ STM32F030F4P6TR||#TSSOP20=20=TSSOP20||@[Description]=uC
 STM32F030K6T6||#QFP32=32=QFP32||@[Description]=Microcontroller
 STM32F030R8T6TR||#LQFP64=64=LQFP64||@[Description]=uC
 Tactile switch||#DISC=4=FSM2JH||#2 Leg=2=Tact switch 2 leg||#SMD 6x6=4=Tactile SMD 6x6
+TCR2LF||#SOT-25=5=SOT23 - 5 pin||@[Description]=LDO
 Test pad||#SM=1=TestPad SM||#Test pad=1=Test Point
 Thermistor||#0402=2=0402
 Transformer||#EFD15 SMD=10=EFD15 SMD||@[Description]=will come back||#SOMETHIGN=4=4||@[Description]=will come back
