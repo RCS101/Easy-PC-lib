@@ -11,17 +11,15 @@ IC - Opamp - MAX4162||#SOT23=5=SOT23 - 5 pin||@[Description]=Op Amp
 IC - OpAmp - MAX4477||#SOT23=8=SOT23 - 8||@[Description]=Low noise opamp
 IC - Shift Reg - 74HC595||#SO16=16=SO16||#DIP16=16=16DIL
 IC - Temp sensor - MCP9805||#TSOP8=8=8 TSOP||@[Description]=I2C Sensor
-IC - V reg - LM1117||#SOT223=4=SOT-223||@3.3v=3.3v||@5v=5v
 Ionisation Chamber||#SMD=2=Chamber pad
 IS31AP4991 AUDIO AMPLIFIER||#SIOC8=8=SOIC8
-L78L05ACZ||#TO92=3=TO92||@[Description]=Linear Voltage regulator
+IS31AP4991A AUDIO AMPLIFIER||#MSOP8=8=MSOP8||#SIOC8=8=SOIC8
 LCD 16x2||#MOD=20=LCD_module
 LM3405A||#TINYSOT=6=TinySOT||@[Description]=Constant current buck LED driver
 MC74VHC1GT00||#SOT23-5=5=SOT23 - 5 pin||@[Description]=NAND gate
 MC34063a||#DIP8=8=8DIL||@[Description]=DCDC controller||#SOIC-8=8=SO8||@[Description]=DCDC controller
 MCP6L01RT-E/OT||#SOT23-5=5=SOT23 - 5 pin||@[Description]=Op Amp
 MCP17C724||#QFN16=17=QFN16||@[Description]=Dual H Bridge
-MCP1702||#SOT23=3=SOT23||@[Description]=LDO 3.3v||#SOT23-small=3=SOT23-small||@[Description]=LDO 3.3v
 MCP73831/2 Lipo charger||#SOT23-5=5=SOT23 - 5 pin
 Microphone||#SMD=4=Microphone||@[Description]=MEMS
 Neon Bulb||#THROUGH=2=Neon Bulb
@@ -31,5 +29,4 @@ Photodiode||#3mm=2=3mm LED||#SMD=2=BPW34
 Piezo Buzzer||#SMD=2=Piezo
 Pogo Pin||#THROUGH=1=Pogo Pin pad
 Si4702/03||#QFN=21=Si4702/03||@[Description]=FM Radio
-TCR2LF||#SOT-25=5=SOT23 - 5 pin||@[Description]=LDO
 Vibration Sensor||#THROUGH=2=2
