@@ -1,0 +1,9 @@
+Arduino Nano||#MODULE=30=Arduino Nano||@[Description]=uC
+AtMega32u4||#QFP44=44=QFP44
+ATSAMD21G18A-AUT||#QFN48=48=QFN48||@[Description]=uC M0+
+Attiny44/84||#DIP14=14=14DIL||@[Description]=Microcontroller
+KL03||#QFN 24=25=QFN24 4x4
+STM32F030F4P6TR||#TSSOP20=20=TSSOP20||@[Description]=uC
+STM32F030K6T6||#QFP32=32=QFP32||@[Description]=Microcontroller
+STM32F030R8T6TR||#LQFP64=64=LQFP64||@[Description]=uC
+STM32L031C6T6||#LQFP48=48=LQFP48||@[Description]=uC
