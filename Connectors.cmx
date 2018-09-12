@@ -1,6 +1,12 @@
+1Conn||#THROUGH=1=1way_con
+2Conn||#THROUGH=2=2way_con
 2x5 Connector||#THROUGH=10=2x5 header
 2x10 connector||#THROUGH=20=2x10way_con
+3Conn||#THROUGH=3=3way_con
+4Conn||#THROUGH=4=4way_con
 4WP||#SMD=4=4 pad conn
+5Conn||#THROUGH=5=5way_con
+6Conn||#THROUGH=6=6way_con
 6WP||#DSC=5=5||@[Description]=5 way Pin Header
 9WP||#SM=9=9 pad conn
 10way Connector||#THROUGH=10=10way_con
