@@ -15,6 +15,7 @@
 16WP||#THROUGH=16=16way_con
 25w conn||#THROUGH=25=25 conn
 54-00035 Jack||#THROUGH=4=54-00035 plug||@[Description]=Audio Jack
+Amphenol FCI 4Conn||#SMD=6=Amphenol FCI header
 Arduino Shield||#THROUGH=32=Arduino shield
 Audio Socket||#THROUGH=4=Audio socket||@[Description]=Mono
 Barrel Jack||#THROU=3=DC10A||@[Description]=Connector

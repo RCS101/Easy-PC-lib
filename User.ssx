@@ -18,6 +18,7 @@
 10+10||20
 10way conn||10
 74HC595||16
+Amphenol FCI 4conn||6
 Arduino||32
 Atmega32u4||44
 Attiny44/84||14
