@@ -9,12 +9,13 @@
 16WP||#THROUGH=16=16way_con
 25w conn||#THROUGH=25=25 conn
 54-00035 Jack||#THROUGH=4=54-00035 plug||@[Description]=Audio Jack
+AAA Battery pad||#SMD=1=AAA Batery pad
 Arduino Shield||#THROUGH=32=Arduino shield
 Audio Socket||#THROUGH=4=Audio socket||@[Description]=Mono
 Barrel Jack||#THROU=3=DC10A||@[Description]=Connector
 Bulb Contact Inner||#SMD=1=Bulb_contact_inner
 Bulb Contact Outer||#SMD=1=Bulb_contact_outer
-Cortex debug Header||#THROUGH=10=2x5 header
+Cortex debug Header||#SMD=10=Debug header SMD||#THROUGH=10=2x5 header
 Debug header||#THROUGH=10=debug header
 Edge Connector||#SMD=82=Edge connector SMD||#THROUGH=80=Edge connector
 Header 8way SMD||#SMD=8=Header 8way SMD
