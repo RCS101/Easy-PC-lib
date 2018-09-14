@@ -1,5 +1,4 @@
 74HC595||#TSSOP16=16=TSSOP16||@[Description]=Shift Register
-Amphenol FCI 4Conn||#SMD=6=Amphenol FCI header
 AT25SF041-SSHD-B||#SOIC8=8=SOIC8||@[Description]=Flash 4MBit
 CR1220 Holder||#SMD=4=CR1220 holder
 CR2032 holder||#SMD=3=CR2032 SMD||#THROUGH=2=CR2032 holder
