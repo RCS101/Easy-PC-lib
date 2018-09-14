@@ -1,17 +1,12 @@
-1way_con||1
-2way_con||2
 2x3 conn||6
 2x5 header||10
 2x10way_con||20
 3mm LED||2
-3way_con||3
 3x LED||4
 4 pad conn||4
 4 pin LED||4
-4way_con||4
 5mm Inductor||2
 5mm terminal||2
-5way_con||5
 6way_con||6
 7 Seg||12
 7 Seg SMD||20
@@ -39,7 +34,6 @@ AAA Batery pad||1
 Al Cap 6.3mm||2
 Al Cap 8mm||2
 Al Cap 10mm||2
-Amphenol FCI header||6
 Arduino Nano||30
 Arduino shield||32
 Audio socket||4
@@ -65,6 +59,7 @@ Edge connector||80
 Edge connector SMD||82
 Edge_connector||50
 EFD15 SMD||10
+FM LED connector||5
 Header 8way SMD||8
 Header 10way SMD||10
 Inductor 12.5mm||2
@@ -113,6 +108,7 @@ Tactile SMD 6x6||4
 Test Pad||1
 Test Point||1
 TestPad SM||1
+TestPad SM round||1
 TinySOT||6
 TrimmerPot||3
 TSOT25||5

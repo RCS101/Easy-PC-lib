@@ -1,12 +1,6 @@
-1Conn||#THROUGH=1=1way_con
-2Conn||#THROUGH=2=2way_con
 2x5 Connector||#THROUGH=10=2x5 header
 2x10 connector||#THROUGH=20=2x10way_con
-3Conn||#THROUGH=3=3way_con
-4Conn||#THROUGH=4=4way_con
 4WP||#SMD=4=4 pad conn
-5Conn||#THROUGH=5=5way_con
-6Conn||#THROUGH=6=6way_con
 6WP||#DSC=5=5||@[Description]=5 way Pin Header
 9WP||#SM=9=9 pad conn
 10way Connector||#THROUGH=10=10way_con
@@ -15,11 +9,7 @@
 16WP||#THROUGH=16=16way_con
 25w conn||#THROUGH=25=25 conn
 54-00035 Jack||#THROUGH=4=54-00035 plug||@[Description]=Audio Jack
-<<<<<<< HEAD
 AAA Battery pad||#SMD=1=AAA Batery pad
-=======
-Amphenol FCI 4Conn||#SMD=6=Amphenol FCI header
->>>>>>> 94546f6c20ba481ed94b1bda0960f29b6f34e078
 Arduino Shield||#THROUGH=32=Arduino shield
 Audio Socket||#THROUGH=4=Audio socket||@[Description]=Mono
 Barrel Jack||#THROU=3=DC10A||@[Description]=Connector
@@ -28,6 +18,7 @@ Bulb Contact Outer||#SMD=1=Bulb_contact_outer
 Cortex debug Header||#SMD=10=Debug header SMD||#THROUGH=10=2x5 header
 Debug header||#THROUGH=10=debug header
 Edge Connector||#SMD=82=Edge connector SMD||#THROUGH=80=Edge connector
+FM LED + antenna||#THROUGH=5=FM LED connector
 Header 8way SMD||#SMD=8=Header 8way SMD
 Header 10way SMD||#SMD=10=Header 10way SMD
 ICSP Header||#THROUGH=6=2x3 conn||@[Description]=Programming header
@@ -39,5 +30,5 @@ Nucleo - L073RZ||#SHIELD=76=Nucleo Shield
 RJ11||#THROU=6=RJ11||@[Description]=Connector
 Screw terminal||#THROUGH=2=5mm terminal||@[Description]=2 pin
 SJ-43512-SMT||#SMD=8=SJ-4351X-SMT||@[Description]=3.5mm Audio Jack
-Test pad||#SM=1=TestPad SM||#Test pad=1=Test Point
+Test pad||#SM=1=TestPad SM||#Small=1=TestPad SM round||#Test pad=1=Test Point
 USB micro||#SMD=9=Micro USB
