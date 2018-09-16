@@ -1,24 +1,18 @@
-1conn||1
-2conn||2
 2x3 Box||6
 2x10way conn||20
-3conn||3
 3x LED CA||4
 3x LED CC||4
 3x2 box||5
 3x3 square||6
 4+4 square||8
-4conn||4
-5conn||5
 5x5||10
-6conn||6
 7 Seg||12
 7 Seg 2 Char||20
 7 Seg, 4 char||36
 10+10||20
 10way conn||10
+13PIN||13
 74HC595||16
-Amphenol FCI 4conn||6
 Arduino||32
 Atmega32u4||44
 Attiny44/84||14
