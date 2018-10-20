@@ -6,7 +6,7 @@ Inductor||#0603=2=0603||@[Description]=5mm||#THROUGH=2=5mm Inductor||@[Descripti
 Resistor||#0402=2=0402||#0603=2=0603||#0805=2=0805||#1206=2=1206u
 Resistor - Trimmer pot||#SMD=3=TrimmerPot||@[Description]=10k 1 turn
 Rotary encoder w push||#THROUGH=7=Rotary Encoder||#EC12D1564402=7=Rotary Encoder ALPS EC12D156440
-Slide Switch||#SMD=3=Slide Switch
+Slide Switch||#SMD=6=Slide Switch
 Tactile switch||#DISC=4=FSM2JH||#2 Leg=2=Tact switch 2 leg||#SMD 6x6=4=Tactile SMD 6x6
 Thermistor||#0402=2=0402
 Transformer||#EFD15 SMD=10=EFD15 SMD||@[Description]=will come back||#SOMETHIGN=4=4||@[Description]=will come back
