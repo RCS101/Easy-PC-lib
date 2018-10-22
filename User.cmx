@@ -2,7 +2,7 @@
 AT25SF041-SSHD-B||#SOIC8=8=SOIC8||@[Description]=Flash 4MBit
 CR1220 Holder||#SMD=4=CR1220 holder
 CR2032 holder||#SMD=3=CR2032 SMD||#THROUGH=2=CR2032 holder
-Crystal 32kHz||#SMD=4=Crystal 32kHz||#Through=2=32kHz XTAL||#SMD small=2=32kHz xtal SMD
+Crystal 32kHz||#SMD=4=Crystal 32kHz||#MC-146=4=Crystal 32kHz MC146||#Through=2=32kHz XTAL||#SMD small=2=32kHz xtal SMD
 DRV5053||#SOT23=3=SOT23-small||@[Description]=Hall sensor
 DS1307||#DIP8=8=8DIL||@[Description]=Real time clock||#SOIC8=8=SO8||@[Description]=Real time clock
 IC - ADC - HX711||#SOP16=16=SO16||@[Description]=24 bit ADC

@@ -27,6 +27,7 @@
 0402||2
 0603||2
 0603 LED||2
+0805||2
 1206||2
 1206u||2
 1411||2
@@ -48,6 +49,7 @@ CR1220 holder||4
 CR2032 holder||2
 CR2032 SMD||3
 Crystal 32kHz||4
+Crystal 32kHz MC146||4
 DC10A||3
 Debug header||10
 Debug header SMD||10
