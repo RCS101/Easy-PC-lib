@@ -1,6 +1,7 @@
 ALS-PT19-315C/L177/TR8||#0603=2=0603||@[Description]=Phototransistor
 BC516||#TO92=3=TO92||@[Description]=Darlington PNP
 BC807||#SOT23=3=SOT23||@[Description]=PNP Transistor||#SOT23-small=3=SOT23-small||@[Description]=PNP Transistor
+BC846BPW1||#SOT-363=6=SOT-363||@[Description]=NPN, PNP
 BC846C||#SOT23=3=SOT23||@[Description]=NPN transistor||#SOT323=3=SOT-323||@[Description]=NPN transistor||#SOT723=3=SOT-723||@[Description]=NPN transistor
 BC81740MTF||#SOT23=3=SOT23||@[Description]=NPN||#SOT23-small=3=SOT23-small||@[Description]=NPN
 IRF640||#TO220=3=TO220||@[Description]=MOSFET N-Chan

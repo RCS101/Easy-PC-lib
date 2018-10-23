@@ -41,6 +41,7 @@ LCD module||16
 MCP1702||3
 MEMS Microphone||4
 MPC17C724 Dual H bridge||16
+NPN, PNP||6
 NPN_Darlington||3
 Nucleo||76
 PD||2

@@ -79,6 +79,7 @@ Nucleo Shield||76
 OSRAM LED||3
 Piezo||2
 Pogo Pin pad||1
+PogoPin||1
 QFN16||17
 QFN24 4x4||25
 QFN48||48
@@ -98,6 +99,7 @@ SOD-123FL||2
 SOIC8||8
 SOT-223||4
 SOT-323||3
+SOT-363||6
 SOT-723||3
 SOT23 - 5 pin||5
 SOT23 - 8||8

@@ -28,6 +28,6 @@ PAM2804||#SOT23-5=5=SOT23 - 5 pin||@[Description]=Constant current LED driver
 PAM2808||#SO-8EP=9=SO-8EP
 Photodiode||#3mm=2=3mm LED||#SMD=2=BPW34
 Piezo Buzzer||#SMD=2=Piezo
-Pogo Pin||#THROUGH=1=Pogo Pin pad
+Pogo Pin||#127=1=PogoPin||#THROUGH=1=Pogo Pin pad
 Si4702/03||#QFN=21=Si4702/03||@[Description]=FM Radio
 Vibration Sensor||#THROUGH=2=2
