@@ -14,5 +14,6 @@ PMV30UN2||#SOT23=3=SOT23||@[Description]=N-chan||#SOT23-small=3=SOT23-small||@[D
 PMV65XP||#SOT23=3=SOT23||@[Description]=P-chan||#SOT23-small=3=SOT23-small||@[Description]=P-chan
 PNP 2N6520TA||#TO92=3=TO92||@[Description]=350v, 500mA
 Q - Transistor - MMBT4403||#SOT23=3=SOT23||@[Description]=PNP
+SSM6N7002KFU||#SOT-363=6=SOT-363||@[Description]=Dual N-Chan
 Transistor NPN Darlington BCV27||#SMD=3=SOT23||@[Description]=Transistor NPN Darlington
 Transistor PNP Darlington BCV26||#SMD=3=SOT23||@[Description]=Transistor PNP Darlington 

@@ -1,5 +1,6 @@
 2x5 Connector||#THROUGH=10=2x5 header
 2x10 connector||#THROUGH=20=2x10way_con
+3WP||#3Pad=3=3 pad conn
 4WP||#SMD=4=4 pad conn
 6WP||#DSC=5=5||@[Description]=5 way Pin Header
 9WP||#SM=9=9 pad conn
