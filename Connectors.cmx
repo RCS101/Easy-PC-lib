@@ -17,7 +17,7 @@ Bulb Contact Inner||#SMD=1=Bulb_contact_inner
 Bulb Contact Outer||#SMD=1=Bulb_contact_outer
 Cortex debug Header||#SMD=10=Debug header SMD||#THROUGH=10=2x5 header
 Debug header||#THROUGH=10=debug header
-Edge Connector||#SMD=82=Edge connector SMD||#THROUGH=80=Edge connector
+Edge Connector||#SMD=82=Edge connector SMD||#THROUGH=80=Edge connector||#Through Elecrow=82=Edge connector elecrow
 FM LED + antenna||#THROUGH=5=FM LED connector
 Header 8way SMD||#SMD=8=Header 8way SMD
 Header 10way SMD||#SMD=10=Header 10way SMD
