@@ -1,8 +1,8 @@
 74HC595||#TSSOP16=16=TSSOP16||@[Description]=Shift Register
-AT25SF041-SSHD-B||#SOIC8=8=SOIC8||@[Description]=Flash 4MBit
+AT25SF041-SSHD-B||#SOIC8=8=SOIC8||@[Description]=Flash 4MBit||#SIOC8-small=8=SOIC8-small||@[Description]=Flash 4MBit
 CR1220 Holder||#SMD=4=CR1220 holder
 CR2032 holder||#SMD=3=CR2032 SMD||#THROUGH=2=CR2032 holder
-Crystal 32kHz||#SMD=4=Crystal 32kHz||#Through=2=32kHz XTAL||#SMD small=2=32kHz xtal SMD
+Crystal 32kHz||#SMD=4=Crystal 32kHz||#MC-146=4=Crystal 32kHz MC146||#Through=2=32kHz XTAL||#SMD small=2=32kHz xtal SMD
 DRV5053||#SOT23=3=SOT23-small||@[Description]=Hall sensor
 DS1307||#DIP8=8=8DIL||@[Description]=Real time clock||#SOIC8=8=SO8||@[Description]=Real time clock
 IC - ADC - HX711||#SOP16=16=SO16||@[Description]=24 bit ADC
@@ -28,6 +28,6 @@ PAM2804||#SOT23-5=5=SOT23 - 5 pin||@[Description]=Constant current LED driver
 PAM2808||#SO-8EP=9=SO-8EP
 Photodiode||#3mm=2=3mm LED||#SMD=2=BPW34
 Piezo Buzzer||#SMD=2=Piezo
-Pogo Pin||#THROUGH=1=Pogo Pin pad
+Pogo Pin||#127=1=PogoPin||#THROUGH=1=Pogo Pin pad
 Si4702/03||#QFN=21=Si4702/03||@[Description]=FM Radio
 Vibration Sensor||#THROUGH=2=2

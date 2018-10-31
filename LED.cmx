@@ -1,7 +1,7 @@
 7 Segment 2 Char||#SMD=20=7 Seg SMD
 7 Segment, 4 Char||#DIP=36=7 Seg, 4 char||@[Description]=Common Cathode
 7 Segment, 4 Character||#THROUGH=12=7 Seg||@[Description]=KingBright CC56-12EWA
-LED||#3mm=2=3mm LED||#0603=2=0603 LED||#Samsung=3=Samsung High power LED||#High power=3=OSRAM LED
+LED||#3mm=2=3mm LED||#0402=2=0402 LED||#0603=2=0603 LED||#0805=2=0805 LED||#1206=2=1206 LED||#PLCC=2=PLCC||#Samsung=3=Samsung High power LED||#High power=3=OSRAM LED
 LED - 3 colour||#SMD=4=3x LED||@[Description]=Common anode
 LED Green-Green-IR||#THROUGH=4=4 pin LED
 Reverse LED||#1206=3=Reverse LED
