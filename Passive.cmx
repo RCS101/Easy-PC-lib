@@ -1,5 +1,5 @@
 Capacitor||#0402=2=0402||#0603=2=0603||#0805=2=0805||#1206=2=1206u
-Capacitor (Al)||#4mm=-1=Al Cap 4mm||#6mm=2=Al Cap 6.3mm||#8mm=2=Al Cap 8mm||#10mm=2=Al Cap 10mm
+Capacitor (Al)||#6mm=2=Al Cap 6.3mm||#8mm=2=Al Cap 8mm||#10mm=2=Al Cap 10mm
 Capacitor (Tant)||#0805=2=0805||@[Description]=Tant||#1206=2=1206||@[Description]=Tant||#1411=2=1411||@[Description]=Tant
 Ceramic resonator||#SMD=3=Ceramic oscillator
 Inductor||#0402=2=0402||@[Description]=5mm||#0603=2=0603||@[Description]=5mm||#THROUGH=2=5mm Inductor||@[Description]=5mm||#SMD 12mm=2=Inductor 12.5mm||@[Description]=5mm||#Inductor SM=2=Inductor SM||@[Description]=5mm
