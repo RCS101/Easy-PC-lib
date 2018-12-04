@@ -7,9 +7,10 @@ BC81740MTF||#SOT23=3=SOT23||@[Description]=NPN||#SOT23-small=3=SOT23-small||@[De
 IRF640||#TO220=3=TO220||@[Description]=MOSFET N-Chan
 IRF640NS||#D2PAK=3=T0-263AB||@[Description]=MOSFET - NCHAN
 MJD340||#DPAK=3=DPAK-369C||@[Description]=NPN
+MMBT5550LT1G||#SOT23=3=SOT23-small||@[Description]=NPN
 NPN 2N6517CTA||#TO92=3=TO92||@[Description]=400v, 600mA
 NX7002AKW||#SOT323=3=SOT-323||@[Description]=N-Chan
-PMMT491A||#SOT23=3=SOT23_small||@[Description]=NPN
+PMMT491A||#SOT23=-1=SOT23_small||@[Description]=NPN
 PMV30UN2||#SOT23=3=SOT23||@[Description]=N-chan||#SOT23-small=3=SOT23-small||@[Description]=N-chan
 PMV65XP||#SOT23=3=SOT23||@[Description]=P-chan||#SOT23-small=3=SOT23-small||@[Description]=P-chan
 PNP 2N6520TA||#TO92=3=TO92||@[Description]=350v, 500mA

@@ -1,7 +1,6 @@
 2x3 conn||6
 2x5 header||10
 2x10way_con||20
-3 pad conn||3
 3mm LED||2
 3x LED||4
 4 pad conn||4
@@ -26,13 +25,9 @@
 32kHz xtal SMD||2
 54-00035 plug||4
 0402||2
-0402 LED||2
 0603||2
 0603 LED||2
-0805||2
-0805 LED||2
 1206||2
-1206 LED||2
 1206u||2
 1411||2
 AAA Batery pad||1
@@ -53,7 +48,6 @@ CR1220 holder||4
 CR2032 holder||2
 CR2032 SMD||3
 Crystal 32kHz||4
-Crystal 32kHz MC146||4
 DC10A||3
 Debug header||10
 Debug header SMD||10
@@ -83,9 +77,8 @@ Neon Bulb||2
 Nucleo Shield||76
 OSRAM LED||3
 Piezo||2
-PLCC||2
 Pogo Pin pad||1
-PogoPin||1
+PQFP44||44
 QFN16||17
 QFN24 4x4||25
 QFN48||48
@@ -103,10 +96,8 @@ Slide Switch||6
 SO-8EP||9
 SOD-123FL||2
 SOIC8||8
-SOIC8-small||8
 SOT-223||4
 SOT-323||3
-SOT-363||6
 SOT-723||3
 SOT23 - 5 pin||5
 SOT23 - 8||8
