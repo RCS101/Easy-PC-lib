@@ -1,8 +1,10 @@
 1SMB5956BT3G||#SMB=2=DO-214AA||@[Description]=Zener 
 30BQ015TR||#DO-214AB=2=DO-214AB||@[Description]=Schottky diode
 B160||#SMA=2=Diode SMA||@[Description]=Diode
+BAS16LT3G||#SOT23=3=SOT23-small
 BAV99||#SOT23=3=SOT23||@[Description]=Dual Diode||#SOT23-small=3=SOT23-small||@[Description]=Dual Diode
 BZX84||#SOT23=3=SOT23-small||@[Description]=ZDiode
+CTS520||#SOD-882=2=SOD-882
 Diode - MBR120VLSFT3G||#SOT123FL=2=SOD-123FL||@[Description]=schottky
 Diode - Precision Shunt V ref||#SOT23=3=SOT23||@[Description]=Voltage reference
 SB140||#DO41=2=DIOD04||@[Description]=Schottky diode

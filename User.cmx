@@ -1,5 +1,6 @@
 74HC595||#TSSOP16=16=TSSOP16||@[Description]=Shift Register
 AT25SF041-SSHD-B||#SOIC8=8=SOIC8||@[Description]=Flash 4MBit||#SIOC8-small=8=SOIC8-small||@[Description]=Flash 4MBit
+BMM150||#WLP=12=BMM150||@[Description]=Magnetometer
 CR1220 Holder||#SMD=4=CR1220 holder
 CR2032 holder||#SMD=3=CR2032 SMD||#THROUGH=2=CR2032 holder
 Crystal 32kHz||#SMD=4=Crystal 32kHz||#MC-146=4=Crystal 32kHz MC146||#Through=2=32kHz XTAL||#SMD small=2=32kHz xtal SMD
@@ -26,7 +27,7 @@ Microphone||#SMD=4=Microphone||@[Description]=MEMS
 Neon Bulb||#THROUGH=2=Neon Bulb
 PAM2804||#SOT23-5=5=SOT23 - 5 pin||@[Description]=Constant current LED driver
 PAM2808||#SO-8EP=9=SO-8EP
-Photodiode||#3mm=2=3mm LED||#SMD=2=BPW34
+Photodiode||#3mm=2=3mm LED||#SMD=2=BPW34||#4 Pad=4=PD 4pad
 Piezo Buzzer||#SMD=2=Piezo
 Pogo Pin||#127=1=PogoPin||#THROUGH=1=Pogo Pin pad
 Si4702/03||#QFN=21=Si4702/03||@[Description]=FM Radio
