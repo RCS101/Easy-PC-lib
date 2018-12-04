@@ -1,7 +1,9 @@
+2WP||#THROUGH=2=2way_con||@[Description]=Connector
+2x4WP||#SMD =8=2x4 smd||#THROUGH=8=2x4w_127
 2x5 Connector||#THROUGH=10=2x5 header
 2x10 connector||#THROUGH=20=2x10way_con
-3WP||#3Pad=3=3 pad conn
-4WP||#SMD=4=4 pad conn
+3WP||#3Pad=3=3 pad conn||#Through 254=3=3way_con
+4WP||#SMD=4=4 pad conn||#Through=4=4w_con||#Through127=4=4w_127
 6WP||#DSC=5=5||@[Description]=5 way Pin Header
 9WP||#SM=9=9 pad conn
 10way Connector||#THROUGH=10=10way_con
@@ -18,7 +20,7 @@ Bulb Contact Inner||#SMD=1=Bulb_contact_inner
 Bulb Contact Outer||#SMD=1=Bulb_contact_outer
 Cortex debug Header||#SMD=10=Debug header SMD||#THROUGH=10=2x5 header
 Debug header||#THROUGH=10=debug header
-Edge Connector||#SMD=82=Edge connector SMD||#THROUGH=80=Edge connector||#Through Elecrow=82=Edge connector elecrow
+Edge Connector||#SMD=82=Edge connector SMD||#THROUGH=80=Edge connector
 FM LED + antenna||#THROUGH=5=FM LED connector
 Header 8way SMD||#SMD=8=Header 8way SMD
 Header 10way SMD||#SMD=10=Header 10way SMD
