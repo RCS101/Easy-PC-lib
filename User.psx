@@ -1,20 +1,14 @@
-2way_con||2
-2w_con||2
 2x3 conn||6
-2x4 smd||8
-2x4w_127||8
 2x5 header||10
 2x10way_con||20
 3mm LED||2
-3way_con||3
-3w_con||3
 3x LED||4
 4 pad conn||4
+4 pad conn large||4
 4 pin LED||4
-4w_127||4
-4w_con||4
 5mm Inductor||2
 5mm terminal||2
+6 pad conn large||6
 6way_con||6
 7 Seg||12
 7 Seg SMD||20
@@ -32,7 +26,6 @@
 32kHz XTAL||2
 32kHz xtal SMD||2
 54-00035 plug||4
-0201||2
 0402||2
 0603||2
 0603 LED||2
@@ -46,7 +39,6 @@ Al Cap 10mm||2
 Arduino Nano||30
 Arduino shield||32
 Audio socket||4
-BMM150||12
 BPW34||2
 Bulb_contacts||2
 Bulb_contact_inner||1
@@ -66,6 +58,7 @@ DO-214AA||2
 DO-214AB||2
 DPAK-369C||3
 Edge connector||80
+Edge connector elecrow||82
 Edge connector SMD||82
 Edge_connector||50
 EFD15 SMD||10
@@ -85,7 +78,6 @@ MSOP8||8
 Neon Bulb||2
 Nucleo Shield||76
 OSRAM LED||3
-PD 4pad||4
 Piezo||2
 Pogo Pin pad||1
 PQFP44||44
@@ -99,18 +91,17 @@ RJ11||6
 Rotary Encoder||7
 Rotary Encoder ALPS EC12D156440||7
 Samsung High power LED||3
-Samsung Middle power||2
 shell pad||1
 Si4702/03||21
 SJ-4351X-SMT||8
 Slide Switch||6
 SO-8EP||9
 SOD-123FL||2
-SOD-882||2
 SOIC8||8
 SOT-223||4
 SOT-323||3
 SOT-723||3
+SOT16||16
 SOT23 - 5 pin||5
 SOT23 - 8||8
 SOT23-small||3

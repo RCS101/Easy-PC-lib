@@ -1,4 +1,5 @@
 2x3 Box||6
+2x8||16
 2x10way conn||20
 3x LED CA||4
 3x LED CC||4
@@ -6,7 +7,6 @@
 3x3 square||6
 4+4 square||8
 5x5||10
-6x6||12
 7 Seg||12
 7 Seg 2 Char||20
 7 Seg, 4 char||36
@@ -20,8 +20,6 @@ Attiny44/84||14
 AUDIO AMPLIFIER IS31AP4991||8
 Audio Socket||2
 Barrel Jack||3
-Battery||2
-Battery + only||1
 BAV99||3
 Box 15x15||30
 C||2
